@@ -1,7 +1,6 @@
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 import path from 'path'
-
 // https://vitejs.dev/config/
 export default defineConfig({
   plugins: [react()],
@@ -27,11 +26,20 @@ export default defineConfig({
   build: {
     rollupOptions: {
       output: {
-        // Add timestamp to chunk filenames to prevent caching
-        entryFileNames: `assets/[name]-[hash]-${Date.now()}.js`,
-        chunkFileNames: `assets/[name]-[hash]-${Date.now()}.js`,
-        assetFileNames: `assets/[name]-[hash]-${Date.now()}.[ext]`,
+        // Use stable filenames without timestamps
+        entryFileNames: 'assets/[name]-[hash].js',
+        chunkFileNames: 'assets/[name]-[hash].js',
+        assetFileNames: 'assets/[name]-[hash].[ext]',
+        manualChunks: (id) => {
+          // Split vendor code into separate chunks
+          if (id.includes('node_modules')) {
+            return 'vendor';
+          }
+        },
       },
     },
+    // Ensure SPA routing works in production
+    outDir: 'dist',
+    emptyOutDir: true,
   },
 })

@@ -2,7 +2,7 @@
   "version": 2,
   "routes": [
     { "src": "/api/webhook", "dest": "/api/webhook.js", "methods": ["GET", "POST"] },
-    {"handle":"filesystem"}
+    { "handle": "filesystem" },
     { "src": "/(.*)", "dest": "/index.html" }
   ],
   "functions": {
