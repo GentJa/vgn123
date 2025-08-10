@@ -84,7 +84,7 @@
     },
     "contact_info": {
       "phone": "+49 176 12345678",
-      "email": "info@lebenswerk.de",
+      "email": "info@lebenswerk-physiotherapie.ch",
       "address": "Musterstraße 123, 12345 Berlin"
     },
     "copy_notification": "Numéro copié!"
@@ -206,7 +206,7 @@
   },
   "contact": {
     "title": "Demandez un Rendez-vous Maintenant",
-    "email": "info@physio-24.de",
+    "email": "info@lebenswerk-physiotherapie.ch",
     "phone": "0800 3110010",
     "form": {
       "title": "Formulaire de Contact",
@@ -350,7 +350,7 @@
     "contact": {
       "title": "Informations de Contact",
       "q1": "Comment puis-je vous contacter pour un rendez-vous ?",
-      "q1_answer": "Vous pouvez nous joindre par téléphone au +49 30 1234567 ou par email à info@mobile-physiotherapie24.de. Vous pouvez également utiliser le formulaire de contact sur notre site web.",
+      "q1_answer": "Vous pouvez nous joindre par téléphone au +49 30 1234567 ou par email à info@lebenswerk-physiotherapie.ch. Vous pouvez également utiliser le formulaire de contact sur notre site web.",
       "q2": "Acceptez-vous les assurances ?",
       "q2_answer": "Oui, nous acceptons tous les principaux fournisseurs d'assurance maladie, publics et privés. Nous pouvons vous aider à déterminer si votre assurance couvre nos services."
     }

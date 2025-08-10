@@ -112,9 +112,9 @@ const Contact = () => {
           'Content-Type': 'application/json',
         },
         body: JSON.stringify({
-          access_key: '92ad48a7-95d2-4cb5-9101-8ff61e118210', // Your Web3Forms access key
+          access_key: 'e2054f08-20a1-426e-9574-9bdabaa5d504', // Your Web3Forms access key
           from_name: 'LEBENSWERK Website Contact Form',
-          website: 'lebenswerk.ch',
+          website: 'https://www.lebenswerk-physiotherapie.ch/de',
           replyto: sanitizedData.email,
           ...sanitizedData,
           subject: `New contact form submission - ${sanitizedData.subject}${userData.possibleVPN ? ' ⚠️ Possible VPN' : ''}`,
@@ -225,7 +225,7 @@ const Contact = () => {
                 </div>
                 <div>
                   <h3 className="font-bold text-primary text-lg">Email</h3>
-                  <p className="text-gray-700">info@lebenswerk.ch</p>
+                  <p className="text-gray-700">info@lebenswerk-physiotherapie.ch</p>
                 </div>
               </div>
               

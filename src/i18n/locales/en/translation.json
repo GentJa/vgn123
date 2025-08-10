@@ -79,7 +79,7 @@
     "copy_notification": "Number copied!",
     "contact_info": {
       "phone": "+49 176 12345678",
-      "email": "info@lebenswerk.de",
+      "email": "info@lebenswerk-physiotherapie.ch",
       "address": "Musterstrasse 123, 12345 Berlin"
     }
   },
@@ -149,7 +149,7 @@
   },
   "contact": {
     "title": "Request an Appointment Now",
-    "email": "info@physio-24.de",
+    "email": "info@lebenswerk-physiotherapie.ch",
     "phone": "0800 3110010",
     "form": {
       "title": "Contact Form",
