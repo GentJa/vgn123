@@ -1,0 +1,441 @@
+{
+  "navigation": {
+    "home": "Startseite",
+    "service": "Service",
+    "about": "Über uns",
+    "contact": "Kontakt"
+  },
+  "home": {
+    "hero": {
+      "title": "Mobile Physiotherapie Für Zuhause",
+      "subtitle": "Willkommen bei der Mobilen Physiotherapie 24",
+      "cta": "Termin vereinbaren",
+      "slide1": {
+        "title": "Individuelle Therapie für Ihre Bedürfnisse",
+        "subtitle": "Maßgeschneiderte Behandlungskonzepte"
+      },
+      "slide2": {
+        "title": "Professionelle Behandlung zu Hause",
+        "subtitle": "Erleben Sie Physiotherapie in vertrauter Umgebung"
+      },
+      "slide3": {
+        "title": "15+ Jahre Erfahrung & Expertise",
+        "subtitle": "Vertrauen Sie auf unsere langjährige Kompetenz"
+      },
+      "features": {
+        "feature1": "Hausbesuche in ganz Berlin",
+        "feature2": "Alle Kassen & Privat",
+        "feature3": "Flexible Terminzeiten"
+      }
+    },
+    "services": {
+      "title": "Unser Therapie-Angebot",
+      "description": "Wir bieten Ihnen ein breites Therapieangebot für die Behandlung in Ihrem Zuhause. Ob Wirbelsäulenprobleme oder Verletzungen, Muskelverspannungen oder neurologische Beschwerden, unsere erfahrenen Therapeuten lindern oder beseitigen Ihre Beschwerden schnellstmöglich.",
+      "lymphdrainage": "Mobile Lymphdrainage",
+      "lymphdrainage_desc": "Sanfte Techniken zur Entstauung und Schmerzlinderung.",
+      "lymphdrainage_benefit1": "Effektive Reduzierung von Schwellungen und Ödemen",
+      "lymphdrainage_benefit2": "Beschleunigung der Heilung nach Operationen und Verletzungen",
+      "lymphdrainage_benefit3": "Stärkung des Immunsystems und Verbesserung des Wohlbefindens",
+      "exercise": "Übungsbehandlung",
+      "exercise_desc": "Individuelle Übungen für mehr Mobilität und Kraft.",
+      "exercise_benefit1": "Maßgeschneiderte Übungsprogramme für Ihre spezifischen Bedürfnisse",
+      "exercise_benefit2": "Steigerung der Muskelkraft und Verbesserung der Koordination",
+      "exercise_benefit3": "Langfristige Schmerzreduktion durch gezielte Bewegungstherapie",
+      "gymnastics": "Krankengymastik",
+      "gymnastics_desc": "Gezielte Bewegungen für eine verbesserte Körperhaltung.",
+      "gymnastics_benefit1": "Korrektur von Haltungsschäden und Fehlstellungen",
+      "gymnastics_benefit2": "Verbesserung der Beweglichkeit und Gelenkfunktion",
+      "gymnastics_benefit3": "Prävention von wiederkehrenden Beschwerden durch gezieltes Training",
+      "manual": "Manuelle Therapie",
+      "manual_desc": "Behandlungen zur Lösung von Blockaden und Verspannungen.",
+      "manual_benefit1": "Gezielte Mobilisation von blockierten Gelenken und Wirbelsegmenten",
+      "manual_benefit2": "Lösung von tiefsitzenden Muskelverspannungen und Faszienverklebungen",
+      "manual_benefit3": "Schmerzlinderung und verbesserte Bewegungsfreiheit nach wenigen Sitzungen",
+      "massage": "Massagetherapie",
+      "massage_desc": "Lockert Muskeln und fördert die Durchblutung.",
+      "massage_benefit1": "Tiefenwirksame Entspannung der Muskulatur und des Nervensystems",
+      "massage_benefit2": "Verbesserte Durchblutung und beschleunigte Regeneration",
+      "massage_benefit3": "Stressabbau und Förderung des allgemeinen Wohlbefindens",
+      "breathing": "Atemtherapie",
+      "breathing_desc": "Unterstützt die Atmung bei Krankheiten wie COPD und reduziert Stress effektiv.",
+      "breathing_benefit1": "Optimierung der Atemtechnik und Steigerung des Lungenvolumens",
+      "breathing_benefit2": "Linderung von Beschwerden bei Asthma, COPD und anderen Atemwegserkrankungen",
+      "breathing_benefit3": "Verbesserung der Sauerstoffversorgung und Steigerung der Energie",
+      "all_services": "Unser Gesamter Service",
+      "manual_therapy": {
+        "title": "Manuelle Therapie",
+        "description": "Gezielte Behandlung von Funktionsstörungen des Bewegungsapparates durch spezielle Handgriffe und Mobilisationstechniken."
+      },
+      "physical_therapy": {
+        "title": "Krankengymnastik",
+        "description": "Individuelle Übungen zur Verbesserung von Beweglichkeit, Kraft und Koordination bei verschiedenen Erkrankungen."
+      },
+      "lymphatic_drainage": {
+        "title": "Lymphdrainage",
+        "description": "Sanfte Massagetechnik zur Entstauung des Gewebes und Anregung des Lymphflusses bei Ödemen und Schwellungen."
+      }
+    },
+    "experience": {
+      "title": "Erleben Sie erstklassige Physiotherapie",
+      "description": "Unser Ziel ist es, Physiotherapie für jeden zugänglich zu machen und den Stress traditioneller Praxisbesuche zu vermeiden. Mit unserer mobilen Physiotherapie bieten wir eine Lösung, die sich flexibel Ihrem Alltag anpasst, ohne dabei an Qualität einzubüßen.",
+      "paragraph1": "Wir verstehen, dass Zeit und Mobilität oft begrenzte Ressourcen sind – sei es durch einen vollen Terminkalender, gesundheitliche Einschränkungen oder einfach den Wunsch nach mehr Komfort. Genau hier setzen wir an: Wir kommen zu Ihnen nach Hause und bringen alle notwendigen Materialien mit, damit Sie sich auf das konzentrieren können, was zählt – Ihre Gesundheit.",
+      "paragraph2": "Unsere Arbeit basiert auf professionellem Fachwissen und jahrelanger Erfahrung. Jede Behandlung wird individuell auf Ihre Bedürfnisse abgestimmt, um nicht nur akute Beschwerden zu lindern, sondern auch Ihre langfristige Beweglichkeit und Lebensqualität zu fördern. Dabei stehen Ihre Ziele im Fokus – ob Rehabilitation nach einer Verletzung, Unterstützung bei chronischen Beschwerden oder präventive Maßnahmen.",
+      "paragraph3": "Mit unserer mobilen Physiotherapie schaffen wir eine neue Form der Flexibilität und nehmen die Barrieren, die oft zwischen Ihnen und einer effektiven Therapie stehen. Weil wir überzeugt sind, dass gute Physiotherapie weder kompliziert noch zeitaufwändig sein muss.",
+      "about": {
+        "years_of_experience": "Jahr Erfahrung",
+        "title": "Über uns",
+        "subtitle": "Ihr Partner für Gesundheit und Wohlbefinden",
+        "description": "Bei LEBENSWERK steht Ihre Gesundheit im Mittelpunkt. Unsere erfahrenen Therapeuten kommen direkt zu Ihnen nach Hause und bieten professionelle Behandlungen in Ihrer gewohnten Umgebung an.",
+        "features": {
+          "personal_care": {
+            "title": "Persönliche Betreuung",
+            "description": "Individuelle Therapiepläne, die auf Ihre Bedürfnisse zugeschnitten sind."
+          },
+          "qualified_staff": {
+            "title": "Qualifizierte Fachkräfte",
+            "description": "Unser Team besteht aus erfahrenen und spezialisierten Therapeuten."
+          },
+          "holistic_approach": {
+            "title": "Ganzheitlicher Ansatz",
+            "description": "Wir betrachten nicht nur die Symptome, sondern den ganzen Menschen."
+          }
+        },
+        "more_about_us": "Mehr über uns"
+      }
+    },
+    "testimonials": {
+      "title": "Was unsere Kunden denken",
+      "subtitle": "Einblicke in die Erfahrungen unserer Patienten mit unserer Physiotherapie.",
+      "more": "Weitere Kundenstimmen",
+      "pricing": "Transparent und fair – individuelle mobile Physiotherapie ab 120 € pro Termin. Wir kümmern uns um Ihre Gesundheit, wo und wann Sie es brauchen."
+    },
+    "appointment": {
+      "title": "Termin",
+      "subtitle": "Preise für normale Behandlungstermine",
+      "vat": "Ohne Rezept +7% MwSt",
+      "hours": "Mo. bis Fr. 09:00 bis 19:00 Uhr",
+      "duration": "Dauer der Behandlung: 60 Minuten",
+      "cta": "Termin Vereinbaren"
+    },
+    "process": {
+      "title": "Der Ablauf",
+      "description": "Kontakt aufnehmen, Termin vereinbaren und von professioneller Physiotherapie profitieren – schnell, einfach und in den eigenen 4 Wänden.",
+      "step1": "Termin vereinbaren",
+      "step1_desc": "Melden Sie sich telefonisch oder online, und wir vereinbaren einen Termin für die nächste Schritte.",
+      "step2": "Online Beratung",
+      "step2_desc": "In einem persönlichen Gespräch klären wir Ihre Beschwerden und besprechen die besten Therapiemöglichkeiten für Ihre Situation. Unser Ziel ist es, eine Lösung zu finden, die genau auf Ihre Bedürfnisse abgestimmt ist.",
+      "step3": "Zuweisung des Spezialisten",
+      "step3_desc": "Basierend auf Ihrem Anliegen teilen wir Ihnen den idealen Physiotherapeuten aus unserem Team zu, der Sie optimal unterstützen kann.",
+      "step4": "Persönliches Treffen",
+      "step4_desc": "Die Therapie startet direkt in Ihrer vertrauten Umgebung mit einer gezielten Behandlung, die exakt auf Ihre Bedürfnisse abgestimmt ist."
+    },
+    "faq": {
+      "title": "Häufig gestellte Fragen",
+      "toggle": "FAQ öffnen/schließen",
+      "close": "FAQ schließen",
+      "welcome": "Willkommen! Hier finden Sie Antworten auf häufig gestellte Fragen zu unseren physiotherapeutischen Services.",
+      "services": {
+        "title": "Unser Service",
+        "q1": "Welche physiotherapeutischen Services bieten Sie an?",
+        "q1_answer": "Wir bieten ein umfassendes Spektrum an Services an, darunter manuelle Therapie, physikalische Therapie, Lymphdrainage, Sportrehabilitation und spezielle Behandlungen für verschiedene Erkrankungen.",
+        "q2": "Bieten Sie Hausbesuche an?",
+        "q2_answer": "Ja, wir sind auf mobile Physiotherapie spezialisiert und kommen direkt zu Ihnen nach Hause in ganz Berlin und Umgebung.",
+        "q3": "Wie lange dauert eine typische Behandlungssitzung?",
+        "q3_answer": "Eine Standardbehandlung dauert 30-45 Minuten, abhängig von der Art der Therapie und den individuellen Bedürfnissen."
+      },
+      "hours": {
+        "title": "Öffnungszeiten",
+        "q1": "Was sind Ihre Betriebszeiten?",
+        "q1_answer": "Wir bieten flexible Terminzeiten von Montag bis Freitag, 8:00 bis 20:00 Uhr. Wochenendtermine sind auf Anfrage möglich.",
+        "q2": "Wie weit im Voraus sollte ich einen Termin buchen?",
+        "q2_answer": "Wir empfehlen, mindestens 2-3 Tage im Voraus zu buchen, obwohl wir versuchen, dringende Fälle nach Möglichkeit zu berücksichtigen."
+      },
+      "location": {
+        "title": "Standorte",
+        "q1": "In welchen Gebieten sind Sie tätig?",
+        "q1_answer": "Wir bieten mobile Physiotherapie in ganz Berlin und Umgebung an, einschließlich Potsdam, Spandau, Charlottenburg, Wilmersdorf, Steglitz und mehr.",
+        "q2": "Benötige ich eine spezielle Einrichtung zu Hause für die Behandlung?",
+        "q2_answer": "Keine spezielle Einrichtung erforderlich. Unsere Therapeuten bringen alle notwendigen Geräte mit. Wir benötigen lediglich genügend Platz, um die Behandlung bequem durchführen zu können."
+      },
+      "contact": {
+        "title": "Kontaktinformationen",
+        "q1": "Wie kann ich Sie für einen Termin kontaktieren?",
+        "q1_answer": "Sie können uns telefonisch unter +49 30 1234567 oder per E-Mail an info@mobile-physiotherapie24.de erreichen. Sie können auch das Kontaktformular auf unserer Website verwenden.",
+        "q2": "Akzeptieren Sie Versicherungen?",
+        "q2_answer": "Ja, wir akzeptieren alle großen Krankenversicherungen, sowohl gesetzliche als auch private. Wir können Ihnen helfen festzustellen, ob Ihre Versicherung unsere Services abdeckt."
+      }
+    },
+    "contact_info": {
+      "phone": "+49 30 1234567",
+      "email": "info@mobile-physiotherapie24.de",
+      "address": "Musterstraße 123, 10115 Berlin"
+    },
+    "copy_notification": "Nummer kopiert!"
+  },
+  "service": {
+    "title": "Unser Service",
+    "why_us": {
+      "title": "Why choose us ?",
+      "reason1": "Individuelle Betreuung",
+      "reason2": "Modernste Methoden",
+      "reason3": "Spürbare Ergebnisse"
+    },
+    "services": {
+      "title": "Unser Service Angebot",
+      "lymphdrainage": "Lymphdrainage",
+      "lymphdrainage_desc": "Sanfte Techniken zur Entstauung und Schmerzlinderung.",
+      "lymphdrainage_benefit1": "Effektive Reduzierung von Schwellungen und Ödemen",
+      "lymphdrainage_benefit2": "Beschleunigung der Heilung nach Operationen und Verletzungen",
+      "lymphdrainage_benefit3": "Stärkung des Immunsystems und Verbesserung des Wohlbefindens",
+      "exercise": "Übungsbehandlung",
+      "exercise_desc": "Individuelle Übungen für mehr Mobilität und Kraft.",
+      "exercise_benefit1": "Maßgeschneiderte Übungsprogramme für Ihre spezifischen Bedürfnisse",
+      "exercise_benefit2": "Steigerung der Muskelkraft und Verbesserung der Koordination",
+      "exercise_benefit3": "Langfristige Schmerzreduktion durch gezielte Bewegungstherapie",
+      "gymnastics": "Krankengymastik",
+      "gymnastics_desc": "Gezielte Bewegungen für eine verbesserte Körperhaltung.",
+      "gymnastics_benefit1": "Korrektur von Haltungsschäden und Fehlstellungen",
+      "gymnastics_benefit2": "Verbesserung der Beweglichkeit und Gelenkfunktion",
+      "gymnastics_benefit3": "Prävention von wiederkehrenden Beschwerden durch gezieltes Training",
+      "manual": "Manuelle Therapie",
+      "manual_desc": "Behandlungen zur Lösung von Blockaden und Verspannungen.",
+      "manual_benefit1": "Gezielte Mobilisation von blockierten Gelenken und Wirbelsegmenten",
+      "manual_benefit2": "Lösung von tiefsitzenden Muskelverspannungen und Faszienverklebungen",
+      "manual_benefit3": "Schmerzlinderung und verbesserte Bewegungsfreiheit nach wenigen Sitzungen",
+      "massage": "Massagetherapie",
+      "massage_desc": "Lockert Muskeln und fördert die Durchblutung.",
+      "massage_benefit1": "Tiefenwirksame Entspannung der Muskulatur und des Nervensystems",
+      "massage_benefit2": "Verbesserte Durchblutung und beschleunigte Regeneration",
+      "massage_benefit3": "Stressabbau und Förderung des allgemeinen Wohlbefindens",
+      "breathing": "Atemtherapie",
+      "breathing_desc": "Unterstützt die Atmung bei Krankheiten wie COPD und reduziert Stress effektiv.",
+      "breathing_benefit1": "Optimierung der Atemtechnik und Steigerung des Lungenvolumens",
+      "breathing_benefit2": "Linderung von Beschwerden bei Asthma, COPD und anderen Atemwegserkrankungen",
+      "breathing_benefit3": "Verbesserung der Sauerstoffversorgung und Steigerung der Energie",
+      "hot_roll": "Heiße Rolle",
+      "hot_roll_desc": "Lindert Schmerzen und fördert die Durchblutung mit gezielter Wärme.",
+      "hot_roll_benefit1": "Tiefenwirksame Wärmetherapie für verspannte Muskulatur",
+      "hot_roll_benefit2": "Förderung der Durchblutung und des Stoffwechsels im Gewebe",
+      "hot_roll_benefit3": "Schmerzlinderung bei chronischen Beschwerden und Muskelverhärtungen",
+      "cold_therapy": "Kältetherapie",
+      "cold_therapy_desc": "Reduziert Entzündungen und Schwellungen durch gezielte Kälteanwendungen.",
+      "cold_therapy_benefit1": "Schnelle Linderung von akuten Entzündungen und Schwellungen",
+      "cold_therapy_benefit2": "Schmerzreduktion durch lokale Betäubung der Nervenendigungen",
+      "cold_therapy_benefit3": "Beschleunigung der Heilung nach Sportverletzungen und Überanstrengung",
+      "bobath": "Bobath Therapie",
+      "bobath_desc": "Fördert Mobilität und Koordination bei neurologischen Erkrankungen.",
+      "bobath_benefit1": "Wiedererlangung von Bewegungsmustern nach Schlaganfall oder Hirnverletzung",
+      "bobath_benefit2": "Verbesserung der Koordination und des Gleichgewichts bei neurologischen Erkrankungen",
+      "bobath_benefit3": "Förderung der Selbstständigkeit im Alltag durch gezieltes Funktionstraining",
+      "physio": "Physiotherapie",
+      "physio_desc": "Umfassende Behandlung zur Wiederherstellung und Erhaltung der körperlichen Funktionen.",
+      "physio_benefit1": "Ganzheitliche Behandlung von Bewegungseinschränkungen und Schmerzen",
+      "physio_benefit2": "Individuelle Therapiepläne für optimale Rehabilitation nach Verletzungen",
+      "physio_benefit3": "Nachhaltige Verbesserung der Lebensqualität durch gezielte Übungen und Techniken"
+    },
+    "services": {
+      "title": "Unsere Behandlungen",
+      "subtitle": "Professionelle physiotherapeutische Behandlungen, auf Ihre Bedürfnisse zugeschnitten",
+      "book_appointment": "Termin vereinbaren",
+      "additional_title": "Weitere Behandlungen",
+      "cta_title": "Bereit für Ihre Heilungsreise?",
+      "cta_text": "Unser Team erfahrener Physiotherapeuten ist bereit, Ihnen zu optimaler Gesundheit und Wohlbefinden zu verhelfen.",
+      "contact_us": "Kontaktieren Sie uns heute",
+      "therapy": {
+        "massage": {
+          "title": "Massage-Therapie",
+          "description": "Unsere therapeutischen Massagetechniken helfen, Muskelverspannungen zu lösen, die Durchblutung zu verbessern und Entspannung zu fördern. Ideal zur Stressreduktion und Erholung nach körperlicher Anstrengung.",
+          "benefits": [
+            "Reduziert Muskelverspannungen und Schmerzen",
+            "Verbessert die Durchblutung",
+            "Fördert Entspannung und Stressabbau",
+            "Unterstützt die Erholung nach körperlicher Aktivität"
+          ]
+        },
+        "manual": {
+          "title": "Manuelle Therapie",
+          "description": "Die manuelle Therapie konzentriert sich auf Handgriffe zur Behandlung von muskuloskelettalen Schmerzen und Funktionsstörungen. Unsere Spezialisten verwenden gezielte Handbewegungen, um Gelenke und Weichgewebe zu mobilisieren.",
+          "benefits": [
+            "Verbessert die Gelenkbeweglichkeit und -funktion",
+            "Reduziert Schmerzen und Steifheit",
+            "Korrigiert Haltungsungleichgewichte",
+            "Beschleunigt die Heilung nach Verletzungen"
+          ]
+        },
+        "lymphatic": {
+          "title": "Lymphdrainage",
+          "description": "Die Lymphdrainage ist eine sanfte Massagetechnik, die den Fluss der Lymphflüssigkeit im Körper fördert und dabei hilft, Abfallstoffe und Toxine aus dem Gewebe zu entfernen.",
+          "benefits": [
+            "Reduziert Schwellungen und Ödeme",
+            "Unterstützt die Funktion des Immunsystems",
+            "Fördert die Heilung nach Operationen",
+            "Hilft bei chronischer Veneninsuffizienz"
+          ]
+        }
+      },
+      "additional_services": {
+        "sports": {
+          "title": "Sportrehabilitation",
+          "description": "Spezialisierte Therapie für Sportler und aktive Menschen zur Genesung von Sportverletzungen und zur Leistungssteigerung."
+        },
+        "preventive": {
+          "title": "Präventive Pflege",
+          "description": "Proaktive Behandlungen und Übungen zur Vorbeugung von Verletzungen und zur Erhaltung optimaler körperlicher Gesundheit und Beweglichkeit."
+        },
+        "holistic": {
+          "title": "Ganzheitliches Wohlbefinden",
+          "description": "Umfassender Ansatz, der Physiotherapie mit Wellness-Praktiken für die Gesundheit von Körper und Geist kombiniert."
+        }
+      }
+    }
+  },
+  "about": {
+    "title": "Über uns",
+    "vision": {
+      "title": "Vision & Mission",
+      "paragraph1": "Wir setzen alles daran, Physiotherapie zugänglich und wirksam zu machen. Unsere Mission ist es, Ihnen durch gezielte Behandlungen in Ihrer vertrauten Umgebung mehr Beweglichkeit, weniger Schmerzen und eine bessere Lebensqualität zu ermöglichen.",
+      "paragraph2": "Als ein Team aus gut ausgebildeten und erfahrenen Physiotherapeuten haben wir ein klares Ziel: Ihnen durch eine bestmögliche Behandlung zu einer hohen Lebensqualität zu verhelfen. Wir setzen auf eine moderne, individuell auf Sie abgestimmte Therapie – direkt in Ihrer vertrauten Umgebung.",
+      "paragraph3": "Durch unsere mobile Physiotherapie können wir Ihren Alltag optimal berücksichtigen und Ihnen unnötige Wege ersparen. Indem wir Sie zu Hause behandeln, schaffen wir eine persönliche und komfortable Atmosphäre, in der Sie sich vollkommen auf Ihre Genesung konzentrieren können.",
+      "paragraph4": "Bei uns steht nicht nur das Know-how im Fokus – wir nehmen uns Zeit für Sie. Jede Behandlung ist speziell auf Ihre Beschwerden, Bedürfnisse und Ziele zugeschnitten. Diese individuelle Herangehensweise sowie die Erfahrung unserer Therapeuten spüren Sie bei jedem Handgriff."
+    },
+    "approach": {
+      "title": "Unser Ansatz",
+      "description": "Unser Ziel ist es, Ihnen mit einer individuell abgestimmten Therapie und kompetenter Betreuung die bestmögliche Behandlung zu bieten.",
+      "individual": "Individuelle Behandlung",
+      "experienced": "Erfahrene Therapeuten",
+      "diagnosis": "Gründliche Diagnostik",
+      "success": "Nachhaltige Erfolge",
+      "cta": "Individuelle Beratung"
+    },
+    "pricing": {
+      "title": "Pricing",
+      "subtitle": "Preise für normale Behandlungstermine"
+    },
+    "payment": {
+      "title": "Zahlungsweise",
+      "description": "Wir akzeptieren Barzahlung, Überweisung und alle gängigen Kreditkarten."
+    },
+    "reimbursement": {
+      "title": "Kostenerstattung",
+      "description": "Privatversicherte können die Rechnung mit ihrem verordnetem Privatrezept immer einreichen und je nach Tarif die Kosten erstattet bekommen."
+    },
+    "appointments": {
+      "title": "Behandlungstermine"
+    }
+  },
+  "contact": {
+    "title": "Jetzt Termin anfragen",
+    "email": "info@physio-24.de",
+    "phone": "0800 3110010",
+    "form": {
+      "title": "Kontaktformular",
+      "name": "Name",
+      "email": "E-Mail",
+      "phone": "Telefon",
+      "subject_label": "Betreff",
+      "subject_options": {
+        "general": "Allgemeine Anfrage",
+        "appointment": "Terminanfrage",
+        "question": "Frage",
+        "feedback": "Feedback"
+      },
+      "message": "Nachricht",
+      "submit": "Absenden",
+      "sending": "Wird gesendet...",
+      "success": "Vielen Dank für Ihre Nachricht! Wir werden uns so schnell wie möglich bei Ihnen melden.",
+      "error": "Beim Senden Ihrer Nachricht ist ein Fehler aufgetreten. Bitte versuchen Sie es später erneut.",
+      "errors": {
+        "name_required": "Bitte geben Sie Ihren Namen ein",
+        "email_invalid": "Bitte geben Sie eine gültige E-Mail-Adresse ein",
+        "phone_invalid": "Bitte geben Sie eine gültige Telefonnummer ein",
+        "message_required": "Bitte geben Sie eine Nachricht ein",
+        "message_too_short": "Ihre Nachricht ist zu kurz (mindestens 10 Zeichen)"
+      }
+    },
+    "info": {
+      "phone": "Telefon",
+      "email": "E-Mail",
+      "address": "Adresse",
+      "hours": "Öffnungszeiten"
+    }
+  },
+  "footer": {
+    "impressum": "Impressum",
+    "datenschutz": "Datenschutz",
+    "locations": "Standorte",
+    "schweiz": "Schweiz",
+    "schweiz_address": "Monbijoustrasse 73, 3007 Bern",
+    "quick_links": "Schnellzugriff",
+    "contact_us": "Kontaktieren Sie uns",
+    "tagline": "Professionelle Physiotherapie in Ihrer vertrauten Umgebung",
+    "copyright": " 2025 Mobile Physiotherapie 24. Alle Rechte vorbehalten."
+  },
+  "legal": {
+    "impressum": {
+      "title": "Impressum",
+      "company_info": "Unternehmensangaben",
+      "contact": "Kontakt",
+      "phone": "Telefon",
+      "email": "E-Mail",
+      "website": "Webseite",
+      "legal_info": "Rechtliche Informationen",
+      "managing_directors": "Geschäftsführung",
+      "registration": "Handelsregistereintrag",
+      "register_court": "Registergericht",
+      "register_number": "Registernummer",
+      "vat_id": "Umsatzsteuer-ID",
+      "responsibility": "Verantwortlichkeit",
+      "content_responsibility": "Inhaltlich Verantwortlicher",
+      "disclaimer": "Haftungsausschluss",
+      "disclaimer_content": "Haftungshinweise",
+      "disclaimer_text1": "Trotz sorgfältiger inhaltlicher Kontrolle übernehmen wir keine Haftung für die Inhalte externer Links. Für den Inhalt der verlinkten Seiten sind ausschließlich deren Betreiber verantwortlich.",
+      "disclaimer_text2": "Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen.",
+      "copyright": "Urheberrecht",
+      "copyright_text": "Die durch die Seitenbetreiber erstellten Inhalte und Werke auf diesen Seiten unterliegen dem deutschen Urheberrecht. Die Vervielfältigung, Bearbeitung, Verbreitung und jede Art der Verwertung außerhalb der Grenzen des Urheberrechtes bedürfen der schriftlichen Zustimmung des jeweiligen Autors bzw. Erstellers."
+    },
+    "privacy": {
+      "title": "Datenschutzerklärung",
+      "introduction": "Einleitung",
+      "intro_text1": "Der Schutz Ihrer persönlichen Daten ist uns ein besonderes Anliegen. Wir verarbeiten Ihre Daten daher ausschließlich auf Grundlage der gesetzlichen Bestimmungen (DSGVO, TKG 2003).",
+      "intro_text2": "In dieser Datenschutzerklärung informieren wir Sie über die wichtigsten Aspekte der Datenverarbeitung im Rahmen unserer Website.",
+      "responsible": "Verantwortliche Stelle",
+      "responsible_entity": "Verantwortliches Unternehmen",
+      "contact": "Kontakt",
+      "phone": "Telefon",
+      "email": "E-Mail",
+      "data_collection": "Datenerfassung und -verarbeitung",
+      "collection_text1": "Wir erheben und verarbeiten personenbezogene Daten nur, wenn dies zur Bereitstellung einer funktionsfähigen Website sowie unserer Inhalte und Services erforderlich ist.",
+      "website_data": "Websitezugriff",
+      "website_data_text": "Beim Besuch unserer Website werden automatisch Informationen allgemeiner Natur erfasst. Diese Informationen werden im Server-Logfile gespeichert und umfassen die Art des Webbrowsers, das verwendete Betriebssystem, den Domainnamen Ihres Internet-Service-Providers, Ihre IP-Adresse und ähnliches.",
+      "contact_form": "Kontaktformular",
+      "contact_form_text": "Wenn Sie uns über unser Kontaktformular kontaktieren, werden Ihre Angaben aus dem Formular inklusive der von Ihnen dort angegebenen Kontaktdaten zwecks Bearbeitung der Anfrage und für den Fall von Anschlussfragen bei uns gespeichert.",
+      "cookies": "Cookies",
+      "cookies_text1": "Unsere Website verwendet Cookies. Dabei handelt es sich um kleine Textdateien, die mit Hilfe des Browsers auf Ihrem Endgerät abgelegt werden. Sie richten keinen Schaden an.",
+      "cookies_text2": "Sie können Ihren Browser so einstellen, dass Sie über das Setzen von Cookies informiert werden und Cookies nur im Einzelfall erlauben, die Annahme von Cookies für bestimmte Fälle oder generell ausschließen sowie das automatische Löschen der Cookies beim Schließen des Browsers aktivieren.",
+      "analytics": "Webanalyse",
+      "analytics_text": "Zur kontinuierlichen Verbesserung unseres Angebots nutzen wir Analysedienste. Im Folgenden informieren wir Sie über die verwendeten Dienste.",
+      "google_analytics": "Google Analytics",
+      "google_analytics_text": "Diese Website nutzt Funktionen des Webanalysedienstes Google Analytics. Anbieter ist die Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland. Google Analytics verwendet sog. 'Cookies', Textdateien, die auf Ihrem Computer gespeichert werden und die eine Analyse der Benutzung der Website durch Sie ermöglichen.",
+      "rights": "Ihre Rechte",
+      "rights_text": "Ihnen stehen grundsätzlich die Rechte auf Auskunft, Berichtigung, Löschung, Einschränkung, Datenübertragbarkeit, Widerruf und Widerspruch zu. Wenn Sie glauben, dass die Verarbeitung Ihrer Daten gegen das Datenschutzrecht verstößt oder Ihre datenschutzrechtlichen Ansprüche sonst in einer Weise verletzt worden sind, können Sie sich bei der Aufsichtsbehörde beschweren.",
+      "right_information": "Recht auf Auskunft",
+      "right_correction": "Recht auf Berichtigung",
+      "right_deletion": "Recht auf Löschung",
+      "right_restriction": "Recht auf Einschränkung der Verarbeitung",
+      "right_objection": "Recht auf Widerspruch",
+      "right_portability": "Recht auf Datenübertragbarkeit",
+      "changes": "Änderungen",
+      "changes_text": "Wir behalten uns vor, diese Datenschutzerklärung anzupassen, damit sie stets den aktuellen rechtlichen Anforderungen entspricht oder um Änderungen unserer Services in der Datenschutzerklärung umzusetzen, z.B. bei der Einführung neuer Services.",
+      "last_updated": "Letzte Aktualisierung"
+    }
+  },
+  "notFound": {
+    "title": "Seite nicht gefunden",
+    "message": "Die von Ihnen gesuchte Seite existiert nicht oder wurde verschoben.",
+    "home": "Zur Startseite",
+    "contact": "Kontaktieren Sie uns",
+    "suggestions": "Vielleicht möchten Sie überprüfen:",
+    "typo": "Wenn Sie die URL eingegeben haben, prüfen Sie auf Tippfehler",
+    "outdated": "Der Link könnte veraltet sein"
+  }
+}

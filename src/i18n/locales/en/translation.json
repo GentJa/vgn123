@@ -1,0 +1,356 @@
+{
+  "navigation": {
+    "home": "Home",
+    "service": "Service",
+    "about": "About Us",
+    "contact": "Contact"
+  },
+  "home": {
+    "hero": {
+      "title": "Mobile Physiotherapy For Your Home",
+      "subtitle": "Welcome to Mobile Physiotherapy 24",
+      "cta": "Book Appointment",
+      "slide1": {
+        "title": "Personalized Therapy For Your Needs",
+        "subtitle": "Customized Treatment Concepts"
+      },
+      "slide2": {
+        "title": "Professional Treatment At Home",
+        "subtitle": "Experience Physiotherapy in Familiar Surroundings"
+      },
+      "slide3": {
+        "title": "15+ Years of Experience & Expertise",
+        "subtitle": "Trust in Our Long-standing Competence"
+      },
+      "features": {
+        "feature1": "Home Visits Throughout Berlin",
+        "feature2": "All Insurance & Private",
+        "feature3": "Flexible Appointment Times"
+      }
+    },
+    "services": {
+      "title": "Our Services",
+      "subtitle": "Professional Physiotherapy",
+      "manual_therapy": {
+        "title": "Manual Therapy",
+        "description": "Targeted treatment of functional disorders of the musculoskeletal system through special hand techniques and mobilization methods."
+      },
+      "physical_therapy": {
+        "title": "Physical Therapy",
+        "description": "Individual exercises to improve mobility, strength, and coordination for various conditions."
+      },
+      "lymphatic_drainage": {
+        "title": "Lymphatic Drainage",
+        "description": "Gentle massage technique to decongest tissue and stimulate lymph flow in cases of edema and swelling."
+      },
+      "view_all": "View All Services"
+    },
+    "about": {
+      "title": "About Us",
+      "subtitle": "Your Partner for Health and Well-being",
+      "years_of_experience": "Year of Experience",
+      "description": "At LEBENSWERK, your health is our priority. Our experienced therapists come directly to your home and offer professional treatments in your familiar environment.",
+      "features": {
+        "personal_care": {
+          "title": "Personal Care",
+          "description": "Individual therapy plans tailored to your needs."
+        },
+        "qualified_staff": {
+          "title": "Qualified Professionals",
+          "description": "Our team consists of experienced and specialized therapists."
+        },
+        "holistic_approach": {
+          "title": "Holistic Approach",
+          "description": "We consider not just the symptoms, but the whole person."
+        }
+      },
+      "more_about_us": "More About Us"
+    },
+    "testimonials": {
+      "title": "Experiences",
+      "subtitle": "What Our Patients Say"
+    },
+    "cta": {
+      "title": "Ready for Your Personal Therapy?",
+      "description": "Contact us today and schedule an appointment for your first treatment in familiar surroundings.",
+      "appointment": "Schedule Appointment",
+      "call": "Call Us"
+    },
+    "copy_notification": "Number copied!",
+    "contact_info": {
+      "phone": "+49 176 12345678",
+      "email": "info@lebenswerk.de",
+      "address": "Musterstrasse 123, 12345 Berlin"
+    }
+  },
+  "service": {
+    "title": "Our Service",
+    "why_us": {
+      "title": "Why choose us?",
+      "reason1": "Individual Care",
+      "reason2": "Modern Methods",
+      "reason3": "Noticeable Results"
+    },
+    "services": {
+      "title": "Our Service Offering",
+      "lymphdrainage": "Lymphatic Drainage",
+      "lymphdrainage_desc": "Gentle techniques for decongestive and pain relief.",
+      "exercise": "Exercise Treatment",
+      "exercise_desc": "Individual exercises for more mobility and strength.",
+      "gymnastics": "Medical Gymnastics",
+      "gymnastics_desc": "Targeted movements for improved posture.",
+      "manual": "Manual Therapy",
+      "manual_desc": "Treatments to release blockages and tension.",
+      "massage": "Massage Therapy",
+      "massage_desc": "Loosens muscles and promotes blood circulation.",
+      "breathing": "Breathing Therapy",
+      "breathing_desc": "Supports breathing in diseases like COPD and effectively reduces stress.",
+      "hot_roll": "Hot Roll",
+      "hot_roll_desc": "Relieves pain and promotes blood circulation with targeted heat.",
+      "cold_therapy": "Cold Therapy",
+      "cold_therapy_desc": "Reduces inflammation and swelling through targeted cold applications.",
+      "bobath": "Bobath Therapy",
+      "bobath_desc": "Promotes mobility and coordination in neurological diseases."
+    }
+  },
+  "about": {
+    "title": "About Us",
+    "vision": {
+      "title": "Vision & Mission",
+      "paragraph1": "We are committed to making physiotherapy accessible and effective. Our mission is to provide you with more mobility, less pain, and a better quality of life through targeted treatments in your familiar environment.",
+      "paragraph2": "As a team of well-trained and experienced physiotherapists, we have a clear goal: to help you achieve a high quality of life through the best possible treatment. We focus on modern, individually tailored therapy - right in your familiar environment.",
+      "paragraph3": "Through our mobile physiotherapy, we can optimally take your everyday life into account and save you unnecessary journeys. By treating you at home, we create a personal and comfortable atmosphere in which you can fully concentrate on your recovery.",
+      "paragraph4": "For us, it's not just about know-how - we take time for you. Each treatment is specially tailored to your complaints, needs, and goals. You will feel this individual approach and the experience of our therapists in every touch."
+    },
+    "approach": {
+      "title": "Our Approach",
+      "description": "Our goal is to offer you the best possible treatment with individually tailored therapy and competent care.",
+      "individual": "Individual Treatment",
+      "experienced": "Experienced Therapists",
+      "diagnosis": "Thorough Diagnostics",
+      "success": "Sustainable Success",
+      "cta": "Individual Consultation"
+    },
+    "pricing": {
+      "title": "Pricing",
+      "subtitle": "Prices for regular treatment appointments"
+    },
+    "payment": {
+      "title": "Payment Methods",
+      "description": "We accept cash, bank transfer, and all major credit cards."
+    },
+    "reimbursement": {
+      "title": "Cost Reimbursement",
+      "description": "Privately insured patients can always submit the bill with their prescribed private prescription and, depending on the tariff, have the costs reimbursed."
+    },
+    "appointments": {
+      "title": "Treatment Appointments"
+    }
+  },
+  "contact": {
+    "title": "Request an Appointment Now",
+    "email": "info@physio-24.de",
+    "phone": "0800 3110010",
+    "form": {
+      "title": "Contact Form",
+      "name": "Name",
+      "email": "Email",
+      "phone": "Phone",
+      "subject_label": "Subject",
+      "subject_options": {
+        "general": "General Inquiry",
+        "appointment": "Appointment Request",
+        "question": "Question",
+        "feedback": "Feedback"
+      },
+      "message": "Message",
+      "submit": "Submit",
+      "sending": "Sending...",
+      "success": "Thank you for your message! We will get back to you as soon as possible.",
+      "error": "An error occurred while sending your message. Please try again later.",
+      "errors": {
+        "name_required": "Please enter your name",
+        "email_invalid": "Please enter a valid email address",
+        "phone_invalid": "Please enter a valid phone number",
+        "message_required": "Please enter a message",
+        "message_too_short": "Your message is too short (minimum 10 characters)"
+      }
+    },
+    "info": {
+      "phone": "Phone",
+      "email": "Email",
+      "address": "Address",
+      "hours": "Opening Hours"
+    }
+  },
+  "footer": {
+    "impressum": "Imprint",
+    "datenschutz": "Privacy Policy",
+    "locations": "Locations",
+    "schweiz": "Switzerland",
+    "schweiz_address": "Monbijoustrasse 73, 3007 Bern",
+    "quick_links": "Quick Links",
+    "contact_us": "Contact Us",
+    "tagline": "Professional physiotherapy in your familiar environment",
+    "copyright": " 2025 Mobile Physiotherapy 24. All rights reserved."
+  },
+  "legal": {
+    "impressum": {
+      "title": "Imprint",
+      "company_info": "Company Information",
+      "contact": "Contact",
+      "phone": "Phone",
+      "email": "Email",
+      "website": "Website",
+      "legal_info": "Legal Information",
+      "managing_directors": "Managing Directors",
+      "registration": "Commercial Register Entry",
+      "register_court": "Register Court",
+      "register_number": "Register Number",
+      "vat_id": "VAT ID",
+      "responsibility": "Responsibility",
+      "content_responsibility": "Responsible for Content",
+      "disclaimer": "Disclaimer",
+      "disclaimer_content": "Liability Notices",
+      "disclaimer_text1": "Despite careful content control, we assume no liability for the content of external links. The operators of the linked pages are solely responsible for their content.",
+      "disclaimer_text2": "The contents of our pages were created with the greatest care. However, we cannot guarantee the accuracy, completeness, and timeliness of the content.",
+      "copyright": "Copyright",
+      "copyright_text": "The content and works created by the site operators on these pages are subject to German copyright law. The reproduction, editing, distribution, and any kind of exploitation outside the limits of copyright law require the written consent of the respective author or creator."
+    },
+    "privacy": {
+      "title": "Privacy Policy",
+      "introduction": "Introduction",
+      "intro_text1": "The protection of your personal data is of particular concern to us. We therefore process your data exclusively on the basis of the legal provisions (GDPR, TKG 2003).",
+      "intro_text2": "In this privacy policy, we inform you about the most important aspects of data processing within our website.",
+      "responsible": "Responsible Entity",
+      "responsible_entity": "Responsible Company",
+      "contact": "Contact",
+      "phone": "Phone",
+      "email": "Email",
+      "data_collection": "Data Collection and Processing",
+      "collection_text1": "We collect and process personal data only if this is necessary for the provision of a functional website and our content and services.",
+      "website_data": "Website Access",
+      "website_data_text": "When you visit our website, information of a general nature is automatically collected. This information is stored in the server log file and includes the type of web browser, the operating system used, the domain name of your Internet service provider, your IP address, and similar.",
+      "contact_form": "Contact Form",
+      "contact_form_text": "If you contact us via our contact form, your information from the form, including the contact details you provided there, will be stored by us for the purpose of processing the request and in case of follow-up questions.",
+      "cookies": "Cookies",
+      "cookies_text1": "Our website uses cookies. These are small text files that are stored on your device with the help of the browser. They do no harm.",
+      "cookies_text2": "You can set your browser to inform you about the placement of cookies and to allow cookies only in individual cases, to exclude the acceptance of cookies for certain cases or in general, and to activate the automatic deletion of cookies when closing the browser.",
+      "analytics": "Web Analytics",
+      "analytics_text": "For the continuous improvement of our offer, we use analysis services. In the following, we inform you about the services used.",
+      "google_analytics": "Google Analytics",
+      "google_analytics_text": "This website uses functions of the web analysis service Google Analytics. The provider is Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Ireland. Google Analytics uses so-called 'cookies', text files that are stored on your computer and enable an analysis of your use of the website.",
+      "rights": "Your Rights",
+      "rights_text": "You generally have the rights to information, correction, deletion, restriction, data portability, revocation, and objection. If you believe that the processing of your data violates data protection law or your data protection claims have otherwise been violated, you can complain to the supervisory authority.",
+      "right_information": "Right to Information",
+      "right_correction": "Right to Correction",
+      "right_deletion": "Right to Deletion",
+      "right_restriction": "Right to Restriction of Processing",
+      "right_objection": "Right to Object",
+      "right_portability": "Right to Data Portability",
+      "changes": "Changes",
+      "changes_text": "We reserve the right to adapt this privacy policy so that it always complies with the current legal requirements or to implement changes to our services in the privacy policy, e.g., when introducing new services.",
+      "last_updated": "Last Updated"
+    }
+  },
+  "notFound": {
+    "title": "Page Not Found",
+    "message": "The page you are looking for does not exist or has been moved.",
+    "home": "Go to Homepage",
+    "contact": "Contact Us",
+    "suggestions": "You might want to check:",
+    "typo": "If you typed the URL, check for typos",
+    "outdated": "The link might be outdated"
+  },
+  "faq": {
+    "title": "Frequently Asked Questions",
+    "toggle": "Toggle FAQ",
+    "close": "Close FAQ",
+    "welcome": "Welcome! Here are answers to common questions about our physiotherapy services.",
+    "services": {
+      "title": "Our Services",
+      "q1": "What physiotherapy services do you offer?",
+      "q1_answer": "We offer a comprehensive range of services including manual therapy, physical therapy, lymphatic drainage, sports rehabilitation, and specialized treatments for various conditions.",
+      "q2": "Do you offer home visits?",
+      "q2_answer": "Yes, we specialize in mobile physiotherapy and come directly to your home throughout Berlin and surrounding areas.",
+      "q3": "How long is a typical treatment session?",
+      "q3_answer": "A standard treatment session lasts 30-45 minutes, depending on the type of therapy and individual needs."
+    },
+    "hours": {
+      "title": "Working Hours",
+      "q1": "What are your operating hours?",
+      "q1_answer": "We offer flexible appointment times from Monday to Friday, 8:00 AM to 8:00 PM. Weekend appointments may be available upon request.",
+      "q2": "How far in advance should I book an appointment?",
+      "q2_answer": "We recommend booking at least 2-3 days in advance, though we try to accommodate urgent cases when possible."
+    },
+    "location": {
+      "title": "Locations",
+      "q1": "Which areas do you serve?",
+      "q1_answer": "We provide mobile physiotherapy services throughout Berlin and surrounding areas, including Potsdam, Spandau, Charlottenburg, Wilmersdorf, Steglitz, and more.",
+      "q2": "Do I need a special setup at home for the treatment?",
+      "q2_answer": "No special setup is required. Our therapists bring all necessary equipment. We just need enough space to perform the treatment comfortably."
+    },
+    "contact": {
+      "title": "Contact Information",
+      "q1": "How can I contact you for an appointment?",
+      "q1_answer": "You can reach us by phone at +49 30 1234567 or by email at info@mobile-physiotherapie24.de. You can also use the contact form on our website.",
+      "q2": "Do you accept insurance?",
+      "q2_answer": "Yes, we accept all major health insurance providers, both public and private. We can help you determine if your insurance covers our services."
+    }
+  },
+  "services": {
+    "title": "Our Services",
+    "subtitle": "Professional physiotherapy treatments tailored to your needs",
+    "book_appointment": "Book an Appointment",
+    "additional_title": "Additional Treatments",
+    "cta_title": "Ready to Start Your Healing Journey?",
+    "cta_text": "Our team of experienced physiotherapists is ready to help you achieve optimal health and wellness.",
+    "contact_us": "Contact Us Today",
+    "therapy": {
+      "massage": {
+        "title": "Massage Therapy",
+        "description": "Our therapeutic massage techniques help relieve muscle tension, improve circulation, and promote relaxation. Perfect for stress reduction and recovery from physical exertion.",
+        "benefits": [
+          "Reduces muscle tension and pain",
+          "Improves blood circulation",
+          "Promotes relaxation and stress relief",
+          "Enhances recovery after physical activity"
+        ]
+      },
+      "manual": {
+        "title": "Manual Therapy",
+        "description": "Manual therapy focuses on hands-on techniques to treat musculoskeletal pain and disability. Our specialists use skilled hand movements to mobilize joints and soft tissues.",
+        "benefits": [
+          "Improves joint mobility and function",
+          "Reduces pain and stiffness",
+          "Corrects postural imbalances",
+          "Accelerates healing after injury"
+        ]
+      },
+      "lymphatic": {
+        "title": "Lymphatic Drainage",
+        "description": "Lymphatic drainage is a gentle massage technique that encourages the movement of lymph fluids around the body, helping to remove waste and toxins from the tissues.",
+        "benefits": [
+          "Reduces swelling and edema",
+          "Supports immune system function",
+          "Promotes healing after surgery",
+          "Helps with chronic venous insufficiency"
+        ]
+      }
+    },
+    "additional_services": {
+      "sports": {
+        "title": "Sports Rehabilitation",
+        "description": "Specialized therapy for athletes and active individuals to recover from sports injuries and improve performance."
+      },
+      "preventive": {
+        "title": "Preventive Care",
+        "description": "Proactive treatments and exercises to prevent injuries and maintain optimal physical health and mobility."
+      },
+      "holistic": {
+        "title": "Holistic Wellness",
+        "description": "Comprehensive approach combining physiotherapy with wellness practices for total body and mind health."
+      }
+    }
+  }
+}

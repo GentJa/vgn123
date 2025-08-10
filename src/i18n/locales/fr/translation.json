@@ -1,0 +1,358 @@
+{
+  "navigation": {
+    "home": "Accueil",
+    "service": "Services",
+    "about": "À Propos",
+    "contact": "Contact"
+  },
+  "home": {
+    "hero": {
+      "title": "Physiothérapie Mobile À Domicile",
+      "subtitle": "Bienvenue à la Physiothérapie Mobile 24",
+      "cta": "Prendre Rendez-vous",
+      "slide1": {
+        "title": "Thérapie Personnalisée Pour Vos Besoins",
+        "subtitle": "Concepts de Traitement Sur Mesure"
+      },
+      "slide2": {
+        "title": "Traitement Professionnel À Domicile",
+        "subtitle": "Expérimentez la Physiothérapie dans un Environnement Familier"
+      },
+      "slide3": {
+        "title": "Plus de 15 Ans d'Expérience & d'Expertise",
+        "subtitle": "Faites Confiance à Notre Compétence de Longue Date"
+      },
+      "features": {
+        "feature1": "Visites à Domicile dans Tout Berlin",
+        "feature2": "Toutes Assurances & Privé",
+        "feature3": "Horaires de Rendez-vous Flexibles"
+      }
+    },
+    "services": {
+      "title": "Nos Services",
+      "subtitle": "Physiothérapie Professionnelle",
+      "manual_therapy": {
+        "title": "Thérapie Manuelle",
+        "description": "Traitement ciblé des troubles fonctionnels de l'appareil locomoteur par des techniques manuelles spéciales et des méthodes de mobilisation."
+      },
+      "physical_therapy": {
+        "title": "Kinésithérapie",
+        "description": "Exercices individuels pour améliorer la mobilité, la force et la coordination pour diverses conditions."
+      },
+      "lymphatic_drainage": {
+        "title": "Drainage Lymphatique",
+        "description": "Technique de massage douce pour décongestionner les tissus et stimuler la circulation lymphatique en cas d'œdème et de gonflement."
+      },
+      "view_all": "Voir Tous les Services"
+    },
+    "about": {
+      "title": "À Propos de Nous",
+      "subtitle": "Votre Partenaire pour la Santé et le Bien-être",
+      "years_of_experience": "Année d'Expérience",
+      "description": "Chez LEBENSWERK, votre santé est notre priorité. Nos thérapeutes expérimentés viennent directement chez vous et offrent des traitements professionnels dans votre environnement familier.",
+      "features": {
+        "personal_care": {
+          "title": "Soins Personnalisés",
+          "description": "Plans de thérapie individuels adaptés à vos besoins."
+        },
+        "qualified_staff": {
+          "title": "Professionnels Qualifiés",
+          "description": "Notre équipe est composée de thérapeutes expérimentés et spécialisés."
+        },
+        "holistic_approach": {
+          "title": "Approche Holistique",
+          "description": "Nous considérons non seulement les symptômes, mais la personne dans son ensemble."
+        }
+      },
+      "more_about_us": "En Savoir Plus Sur Nous"
+    },
+    "testimonials": {
+      "title": "Expériences",
+      "subtitle": "Ce Que Disent Nos Patients"
+    },
+    "cta": {
+      "title": "Prêt pour Votre Thérapie Personnelle?",
+      "description": "Contactez-nous aujourd'hui et planifiez un rendez-vous pour votre premier traitement dans un environnement familier.",
+      "appointment": "Planifier un Rendez-vous",
+      "call": "Nous Appeler"
+    },
+    "stats": {
+      "experience": "Années d'Expérience",
+      "patients": "Patients Satisfaits",
+      "methods": "Méthodes de Traitement",
+      "locations": "Emplacements à Berlin"
+    },
+    "contact_info": {
+      "phone": "+49 176 12345678",
+      "email": "info@lebenswerk.de",
+      "address": "Musterstraße 123, 12345 Berlin"
+    },
+    "copy_notification": "Numéro copié!"
+  },
+  "service": {
+    "title": "Nos Services",
+    "why_us": {
+      "title": "Pourquoi nous choisir ?",
+      "reason1": "Soins Individuels",
+      "reason2": "Méthodes Modernes",
+      "reason3": "Résultats Perceptibles"
+    },
+    "services": {
+      "title": "Notre Offre de Services",
+      "lymphdrainage": "Drainage Lymphatique",
+      "lymphdrainage_desc": "Techniques douces pour la décongestion et le soulagement de la douleur.",
+      "exercise": "Traitement par Exercices",
+      "exercise_desc": "Exercices individuels pour plus de mobilité et de force.",
+      "gymnastics": "Gymnastique Médicale",
+      "gymnastics_desc": "Mouvements ciblés pour une meilleure posture.",
+      "manual": "Thérapie Manuelle",
+      "manual_desc": "Traitements pour libérer les blocages et les tensions.",
+      "massage": "Thérapie par Massage",
+      "massage_desc": "Détend les muscles et favorise la circulation sanguine.",
+      "breathing": "Thérapie Respiratoire",
+      "breathing_desc": "Soutient la respiration dans les maladies comme la BPCO et réduit efficacement le stress.",
+      "hot_roll": "Rouleau Chaud",
+      "hot_roll_desc": "Soulage la douleur et favorise la circulation sanguine avec une chaleur ciblée.",
+      "cold_therapy": "Thérapie par le Froid",
+      "cold_therapy_desc": "Réduit l'inflammation et les gonflements grâce à des applications de froid ciblées.",
+      "bobath": "Thérapie Bobath",
+      "bobath_desc": "Favorise la mobilité et la coordination dans les maladies neurologiques."
+    },
+    "therapy": {
+      "massage": {
+        "title": "Thérapie par Massage",
+        "description": "Nos techniques de massage thérapeutique aident à soulager les tensions musculaires, à améliorer la circulation et à favoriser la relaxation. Parfait pour réduire le stress et récupérer après un effort physique.",
+        "benefits": [
+          "Réduit les tensions musculaires et la douleur",
+          "Améliore la circulation sanguine",
+          "Favorise la relaxation et soulage le stress",
+          "Améliore la récupération après l'activité physique"
+        ]
+      },
+      "manual": {
+        "title": "Thérapie Manuelle",
+        "description": "La thérapie manuelle se concentre sur des techniques manuelles pour traiter les douleurs musculo-squelettiques et les handicaps. Nos spécialistes utilisent des mouvements manuels habiles pour mobiliser les articulations et les tissus mous.",
+        "benefits": [
+          "Améliore la mobilité et la fonction articulaires",
+          "Réduit la douleur et la raideur",
+          "Corrige les déséquilibres posturaux",
+          "Accélère la guérison après une blessure"
+        ]
+      },
+      "lymphatic": {
+        "title": "Drainage Lymphatique",
+        "description": "Le drainage lymphatique est une technique de massage douce qui encourage la circulation des fluides lymphatiques dans le corps, aidant à éliminer les déchets et les toxines des tissus.",
+        "benefits": [
+          "Réduit les gonflements et les œdèmes",
+          "Soutient le fonctionnement du système immunitaire",
+          "Favorise la guérison après une chirurgie",
+          "Aide en cas d'insuffisance veineuse chronique"
+        ]
+      }
+    },
+    "additional_services": {
+      "sports": {
+        "title": "Réhabilitation Sportive",
+        "description": "Thérapie spécialisée pour les athlètes et les personnes actives pour récupérer des blessures sportives et améliorer les performances."
+      },
+      "preventive": {
+        "title": "Soins Préventifs",
+        "description": "Traitements et exercices proactifs pour prévenir les blessures et maintenir une santé physique et une mobilité optimales."
+      },
+      "holistic": {
+        "title": "Bien-être Holistique",
+        "description": "Approche globale combinant la physiothérapie avec des pratiques de bien-être pour la santé totale du corps et de l'esprit."
+      }
+    },
+    "book_appointment": "Prendre rendez-vous",
+    "additional_title": "Traitements Supplémentaires",
+    "cta_title": "Prêt à commencer votre parcours de guérison ?",
+    "cta_text": "Notre équipe de physiothérapeutes expérimentés est prête à vous aider à atteindre une santé et un bien-être optimaux.",
+    "contact_us": "Contactez-nous aujourd'hui"
+  },
+  "about": {
+    "title": "À Propos",
+    "vision": {
+      "title": "Vision & Mission",
+      "paragraph1": "Nous nous engageons à rendre la physiothérapie accessible et efficace. Notre mission est de vous offrir plus de mobilité, moins de douleur et une meilleure qualité de vie grâce à des traitements ciblés dans votre environnement familier.",
+      "paragraph2": "En tant qu'équipe de physiothérapeutes bien formés et expérimentés, nous avons un objectif clair : vous aider à atteindre une haute qualité de vie grâce au meilleur traitement possible. Nous nous concentrons sur une thérapie moderne, adaptée individuellement - directement dans votre environnement familier.",
+      "paragraph3": "Grâce à notre physiothérapie mobile, nous pouvons prendre en compte de manière optimale votre quotidien et vous épargner des déplacements inutiles. En vous traitant à domicile, nous créons une atmosphère personnelle et confortable dans laquelle vous pouvez vous concentrer pleinement sur votre guérison.",
+      "paragraph4": "Pour nous, il ne s'agit pas seulement de savoir-faire - nous prenons du temps pour vous. Chaque traitement est spécialement adapté à vos plaintes, besoins et objectifs. Vous ressentirez cette approche individuelle et l'expérience de nos thérapeutes à chaque geste."
+    },
+    "approach": {
+      "title": "Notre Approche",
+      "description": "Notre objectif est de vous offrir le meilleur traitement possible avec une thérapie adaptée individuellement et des soins compétents.",
+      "individual": "Traitement Individuel",
+      "experienced": "Thérapeutes Expérimentés",
+      "diagnosis": "Diagnostic Approfondi",
+      "success": "Succès Durable",
+      "cta": "Consultation Individuelle"
+    },
+    "pricing": {
+      "title": "Tarification",
+      "subtitle": "Prix pour les rendez-vous de traitement réguliers"
+    },
+    "payment": {
+      "title": "Modes de Paiement",
+      "description": "Nous acceptons les paiements en espèces, les virements bancaires et toutes les principales cartes de crédit."
+    },
+    "reimbursement": {
+      "title": "Remboursement des Frais",
+      "description": "Les patients assurés en privé peuvent toujours soumettre la facture avec leur ordonnance privée prescrite et, selon le tarif, se faire rembourser les frais."
+    },
+    "appointments": {
+      "title": "Rendez-vous de Traitement"
+    }
+  },
+  "contact": {
+    "title": "Demandez un Rendez-vous Maintenant",
+    "email": "info@physio-24.de",
+    "phone": "0800 3110010",
+    "form": {
+      "title": "Formulaire de Contact",
+      "name": "Nom",
+      "email": "E-mail",
+      "phone": "Téléphone",
+      "subject_label": "Sujet",
+      "subject_options": {
+        "general": "Demande Générale",
+        "appointment": "Demande de Rendez-vous",
+        "question": "Question",
+        "feedback": "Commentaire"
+      },
+      "message": "Message",
+      "submit": "Envoyer",
+      "sending": "Envoi en cours...",
+      "success": "Merci pour votre message ! Nous vous répondrons dès que possible.",
+      "error": "Une erreur s'est produite lors de l'envoi de votre message. Veuillez réessayer plus tard.",
+      "errors": {
+        "name_required": "Veuillez entrer votre nom",
+        "email_invalid": "Veuillez entrer une adresse email valide",
+        "phone_invalid": "Veuillez entrer un numéro de téléphone valide",
+        "message_required": "Veuillez entrer un message",
+        "message_too_short": "Votre message est trop court (minimum 10 caractères)"
+      }
+    },
+    "info": {
+      "phone": "Téléphone",
+      "email": "Email",
+      "address": "Adresse",
+      "hours": "Heures d'ouverture"
+    }
+  },
+  "footer": {
+    "impressum": "Mentions Légales",
+    "datenschutz": "Politique de Confidentialité",
+    "locations": "Emplacements",
+    "schweiz": "Suisse",
+    "schweiz_address": "Monbijoustrasse 73, 3007 Berne",
+    "quick_links": "Liens Rapides",
+    "contact_us": "Contactez-nous",
+    "tagline": "Physiothérapie professionnelle dans votre environnement familier",
+    "copyright": " 2025 Physiothérapie Mobile 24. Tous droits réservés."
+  },
+  "legal": {
+    "impressum": {
+      "title": "Mentions Légales",
+      "company_info": "Informations sur l'Entreprise",
+      "contact": "Contact",
+      "phone": "Téléphone",
+      "email": "E-mail",
+      "website": "Site Web",
+      "legal_info": "Informations Juridiques",
+      "managing_directors": "Directeurs Généraux",
+      "registration": "Inscription au Registre du Commerce",
+      "register_court": "Tribunal d'Enregistrement",
+      "register_number": "Numéro d'Enregistrement",
+      "vat_id": "Numéro de TVA",
+      "responsibility": "Responsabilité",
+      "content_responsibility": "Responsable du Contenu",
+      "disclaimer": "Clause de Non-Responsabilité",
+      "disclaimer_content": "Avis de Responsabilité",
+      "disclaimer_text1": "Malgré un contrôle minutieux du contenu, nous n'assumons aucune responsabilité pour le contenu des liens externes. Les opérateurs des pages liées sont seuls responsables de leur contenu.",
+      "disclaimer_text2": "Le contenu de nos pages a été créé avec le plus grand soin. Cependant, nous ne pouvons garantir l'exactitude, l'exhaustivité et l'actualité du contenu.",
+      "copyright": "Droits d'Auteur",
+      "copyright_text": "Le contenu et les œuvres créés par les opérateurs du site sur ces pages sont soumis au droit d'auteur allemand. La reproduction, l'édition, la distribution et tout type d'exploitation en dehors des limites du droit d'auteur nécessitent le consentement écrit de l'auteur ou du créateur respectif."
+    },
+    "privacy": {
+      "title": "Politique de Confidentialité",
+      "introduction": "Introduction",
+      "intro_text1": "La protection de vos données personnelles nous tient particulièrement à cœur. Nous traitons donc vos données exclusivement sur la base des dispositions légales (RGPD, TKG 2003).",
+      "intro_text2": "Dans cette politique de confidentialité, nous vous informons des aspects les plus importants du traitement des données dans le cadre de notre site web.",
+      "responsible": "Entité Responsable",
+      "responsible_entity": "Entreprise Responsable",
+      "contact": "Contact",
+      "phone": "Téléphone",
+      "email": "E-mail",
+      "data_collection": "Collecte et Traitement des Données",
+      "collection_text1": "Nous collectons et traitons des données personnelles uniquement si cela est nécessaire pour la fourniture d'un site web fonctionnel et de notre contenu et services.",
+      "website_data": "Accès au Site Web",
+      "website_data_text": "Lorsque vous visitez notre site web, des informations de nature générale sont automatiquement collectées. Ces informations sont stockées dans le fichier journal du serveur et comprennent le type de navigateur web, le système d'exploitation utilisé, le nom de domaine de votre fournisseur de services Internet, votre adresse IP et similaires.",
+      "contact_form": "Formulaire de Contact",
+      "contact_form_text": "Si vous nous contactez via notre formulaire de contact, vos informations du formulaire, y compris les coordonnées que vous y avez fournies, seront stockées par nous dans le but de traiter la demande et en cas de questions de suivi.",
+      "cookies": "Cookies",
+      "cookies_text1": "Notre site web utilise des cookies. Ce sont de petits fichiers texte qui sont stockés sur votre appareil à l'aide du navigateur. Ils ne causent aucun dommage.",
+      "cookies_text2": "Vous pouvez configurer votre navigateur pour être informé du placement de cookies et pour autoriser les cookies uniquement dans des cas individuels, pour exclure l'acceptation de cookies pour certains cas ou en général, et pour activer la suppression automatique des cookies lors de la fermeture du navigateur.",
+      "analytics": "Analyse Web",
+      "analytics_text": "Pour l'amélioration continue de notre offre, nous utilisons des services d'analyse. Dans ce qui suit, nous vous informons sur les services utilisés.",
+      "google_analytics": "Google Analytics",
+      "google_analytics_text": "Ce site web utilise des fonctions du service d'analyse web Google Analytics. Le fournisseur est Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irlande. Google Analytics utilise des 'cookies', des fichiers texte qui sont stockés sur votre ordinateur et permettent une analyse de votre utilisation du site web.",
+      "rights": "Vos Droits",
+      "rights_text": "Vous disposez généralement des droits à l'information, à la correction, à la suppression, à la limitation, à la portabilité des données, à la révocation et à l'opposition. Si vous pensez que le traitement de vos données viole la loi sur la protection des données ou que vos droits à la protection des données ont été violés d'une autre manière, vous pouvez vous plaindre auprès de l'autorité de surveillance.",
+      "right_information": "Droit à l'Information",
+      "right_correction": "Droit à la Correction",
+      "right_deletion": "Droit à la Suppression",
+      "right_restriction": "Droit à la Limitation du Traitement",
+      "right_objection": "Droit d'Opposition",
+      "right_portability": "Droit à la Portabilité des Données",
+      "changes": "Modifications",
+      "changes_text": "Nous nous réservons le droit d'adapter cette politique de confidentialité afin qu'elle soit toujours conforme aux exigences légales actuelles ou pour mettre en œuvre des changements dans nos services dans la politique de confidentialité, par exemple lors de l'introduction de nouveaux services.",
+      "last_updated": "Dernière Mise à Jour"
+    }
+  },
+  "notFound": {
+    "title": "Page Non Trouvée",
+    "message": "La page que vous recherchez n'existe pas ou a été déplacée.",
+    "home": "Aller à la page d'accueil",
+    "contact": "Contactez-nous",
+    "suggestions": "Vous pourriez vérifier :",
+    "typo": "Si vous avez tapé l'URL, vérifiez les fautes de frappe",
+    "outdated": "Le lien pourrait être obsolète"
+  },
+  "faq": {
+    "title": "Questions Fréquemment Posées",
+    "toggle": "Afficher/Masquer FAQ",
+    "close": "Fermer FAQ",
+    "welcome": "Bienvenue ! Voici les réponses aux questions courantes sur nos services de physiothérapie.",
+    "services": {
+      "title": "Nos Services",
+      "q1": "Quels services de physiothérapie proposez-vous ?",
+      "q1_answer": "Nous offrons une gamme complète de services comprenant la thérapie manuelle, la thérapie physique, le drainage lymphatique, la rééducation sportive et des traitements spécialisés pour diverses affections.",
+      "q2": "Proposez-vous des visites à domicile ?",
+      "q2_answer": "Oui, nous sommes spécialisés dans la physiothérapie mobile et venons directement chez vous dans tout Berlin et ses environs.",
+      "q3": "Combien de temps dure une séance de traitement typique ?",
+      "q3_answer": "Une séance de traitement standard dure 30-45 minutes, selon le type de thérapie et les besoins individuels."
+    },
+    "hours": {
+      "title": "Heures d'Ouverture",
+      "q1": "Quelles sont vos heures d'ouverture ?",
+      "q1_answer": "Nous proposons des rendez-vous flexibles du lundi au vendredi, de 8h00 à 20h00. Des rendez-vous le week-end peuvent être disponibles sur demande.",
+      "q2": "Combien de temps à l'avance dois-je prendre rendez-vous ?",
+      "q2_answer": "Nous recommandons de réserver au moins 2-3 jours à l'avance, bien que nous essayions d'accommoder les cas urgents lorsque c'est possible."
+    },
+    "location": {
+      "title": "Emplacements",
+      "q1": "Dans quelles zones intervenez-vous ?",
+      "q1_answer": "Nous fournissons des services de physiothérapie mobile dans tout Berlin et ses environs, y compris Potsdam, Spandau, Charlottenburg, Wilmersdorf, Steglitz, et plus encore.",
+      "q2": "Ai-je besoin d'une installation spéciale à la maison pour le traitement ?",
+      "q2_answer": "Aucune installation spéciale n'est requise. Nos thérapeutes apportent tout l'équipement nécessaire. Nous avons juste besoin d'assez d'espace pour effectuer le traitement confortablement."
+    },
+    "contact": {
+      "title": "Informations de Contact",
+      "q1": "Comment puis-je vous contacter pour un rendez-vous ?",
+      "q1_answer": "Vous pouvez nous joindre par téléphone au +49 30 1234567 ou par email à info@mobile-physiotherapie24.de. Vous pouvez également utiliser le formulaire de contact sur notre site web.",
+      "q2": "Acceptez-vous les assurances ?",
+      "q2_answer": "Oui, nous acceptons tous les principaux fournisseurs d'assurance maladie, publics et privés. Nous pouvons vous aider à déterminer si votre assurance couvre nos services."
+    }
+  }
+}

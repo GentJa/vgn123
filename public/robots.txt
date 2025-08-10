@@ -1,0 +1,14 @@
+User-agent: *
+Allow: /
+
+# Allow all languages
+Allow: /de/
+Allow: /en/
+Allow: /fr/
+
+# Sitemap location
+Sitemap: https://mobile-physiotherapie24.de/sitemap.xml
+
+# Disallow admin or private areas if they exist
+Disallow: /admin/
+Disallow: /private/
