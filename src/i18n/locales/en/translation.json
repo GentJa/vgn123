@@ -145,37 +145,64 @@
   },
   "about": {
     "title": "About Us",
-    "subtitle": "Your Partner on the Path to Sustainable Health and Pain-Free Movement",
+    "subtitle": "Your Partner for Sustainable Health and Pain-Free Movement",
+    "intro": "We are Lebenswerk Physiotherapie. Our name reflects our core belief: that your physiotherapy and well-being are a worthwhile investment in your life's work. We are dedicated to providing expert physiotherapy that helps you recover, move better, and live fully.",
+    "philosophy": {
+      "title": "Our Philosophy: Holistic Physiotherapy",
+      "description": "We believe in treating the whole person, not just the injury. As expert physiotherapists, we understand that pain in one area is often a result of imbalances elsewhere. Our approach is to look beyond the symptoms to find and treat the root cause of your problem, ensuring lasting results instead of a temporary fix."
+    },
     "vision": {
-      "title": "Vision",
-      "subtitle": "The \"Why\" - Your Ultimate Aspiration",
-      "description": "Our vision is a community where every individual has the knowledge and ability to live a vibrant, active life, unhindered by pain. We see a future where physiotherapy is a proactive journey of empowerment, not just a reactive treatment."
+      "title": "Our Vision",
+      "description": "Our vision is a community where every individual can lead a self-determined, active life without pain and limitations. We are committed to establishing physiotherapy as a guiding pillar for long-term health, vitality, and quality of life."
     },
     "mission": {
-      "title": "Mission",
-      "subtitle": "The \"How\" - Your Daily Practice",
-      "description": "Our mission is to provide deeply personalized, root-cause physiotherapy. We combine advanced manual techniques with holistic strategies and dedicated patient education to not only alleviate pain but to restore function, prevent re-injury, and empower you to become the active leader of your own well-being."
+      "title": "Our Mission",
+      "description": "Our mission is to deliver professional, cause-oriented physiotherapy. We combine state-of-the-art manual therapy, medical training therapy, and clinical expertise with a partnership-based approach. We don't just relieve your pain; we restore your function, prevent future injury, and empower you to take an active role in your own recovery and long-term well-being."
     },
     "goals": {
-      "title": "Goals",
-      "subtitle": "The \"What\" - Your Concrete Objectives",
+      "title": "Our Goals",
       "goal1": {
-        "title": "To Listen Deeply",
-        "description": "To truly understand your unique story, goals, and challenges."
+        "title": "Precise Diagnosis",
+        "description": "We identify the true cause of your complaints through thorough, targeted physical assessments."
       },
       "goal2": {
-        "title": "To Treat the Root Cause",
-        "description": "To look beyond the symptoms and uncover the underlying source of your pain."
+        "title": "Individual Therapy Plans",
+        "description": "Every treatment plan is 100% tailored to your specific body, goals, and needs, whether for pain relief, rehabilitation after surgery, or performance optimization."
       },
       "goal3": {
-        "title": "To Empower Through Education",
-        "description": "To provide you with the knowledge and tools for long-term self-management."
+        "title": "Promote Active Participation",
+        "description": "We equip you with the knowledge, tools, and confidence to manage your health effectively."
       },
       "goal4": {
-        "title": "To Build a Partnership",
-        "description": "To be your dedicated guide and supporter throughout your entire healing journey."
+        "title": "Interdisciplinary Collaboration",
+        "description": "We work closely with doctors, specialists, and other healthcare professionals to ensure you receive the most comprehensive care possible."
+      },
+      "goal5": {
+        "title": "Achieve Sustainable Results",
+        "description": "Our focus is on your long-term health, providing you with the foundation to maintain your results and prevent relapse long after your treatment is complete."
       }
     },
+    "why_choose": {
+      "title": "Why Choose Lebenswerk Physiotherapie?",
+      "reason1": {
+        "title": "Expertise and Experience",
+        "description": "Our team consists of highly-trained, specialized, and experienced physiotherapists."
+      },
+      "reason2": {
+        "title": "Evidence-Based Methods",
+        "description": "We utilize a range of effective techniques, from manual therapy and dry needling to medical exercise therapy, all grounded in the latest science."
+      },
+      "reason3": {
+        "title": "Holistic Practice",
+        "description": "We always consider the whole person—your lifestyle, daily habits, and personal goals—to create a comprehensive recovery strategy."
+      },
+      "reason4": {
+        "title": "Empowerment Through Education",
+        "description": "You will leave our practice not only feeling better but also understanding your body and how to care for it."
+      }
+    },
+    "cta": "Book your appointment today and start your journey to sustainable pain relief and renewed vitality.",
+
     "approach": {
       "title": "Our Approach",
       "description": "Our goal is to offer you the best possible treatment with individually tailored therapy and competent care.",

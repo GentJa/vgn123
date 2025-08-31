@@ -304,37 +304,64 @@
   },
   "about": {
     "title": "Über uns",
-    "subtitle": "Ihr Partner auf dem Weg zu nachhaltiger Gesundheit und schmerzfreier Bewegung",
+    "subtitle": "Ihr Partner für nachhaltige Gesundheit und schmerzfreie Bewegung",
+    "intro": "Wir sind Lebenswerk Physiotherapie. Unser Name spiegelt unsere Grundüberzeugung wider: dass Ihre Physiotherapie und Ihr Wohlbefinden eine lohnende Investition in Ihr Lebenswerk sind. Wir sind darauf spezialisiert, fachkundige Physiotherapie zu bieten, die Ihnen hilft, sich zu erholen, sich besser zu bewegen und vollständig zu leben.",
+    "philosophy": {
+      "title": "Unsere Philosophie: Ganzheitliche Physiotherapie",
+      "description": "Wir glauben daran, den ganzen Menschen zu behandeln, nicht nur die Verletzung. Als erfahrene Physiotherapeuten verstehen wir, dass Schmerzen in einem Bereich oft das Ergebnis von Ungleichgewichten an anderer Stelle sind. Unser Ansatz ist es, über die Symptome hinaus zu schauen, um die Grundursache Ihres Problems zu finden und zu behandeln, um dauerhafte Ergebnisse anstatt einer vorübergehenden Lösung zu gewährleisten."
+    },
     "vision": {
-      "title": "Vision",
-      "subtitle": "Das \"Warum\" - Ihre ultimative Bestrebung",
-      "description": "Unsere Vision ist eine Gemeinschaft, in der jeder Einzelne das Wissen und die Fähigkeit hat, ein lebendiges, aktives Leben ohne Schmerzen zu führen. Wir sehen eine Zukunft, in der Physiotherapie eine proaktive Reise der Ermächtigung ist, nicht nur eine reaktive Behandlung."
+      "title": "Unsere Vision",
+      "description": "Unsere Vision ist eine Gemeinschaft, in der jeder Einzelne ein selbstbestimmtes, aktives Leben ohne Schmerzen und Einschränkungen führen kann. Wir sind bestrebt, die Physiotherapie als leitende Säule für langfristige Gesundheit, Vitalität und Lebensqualität zu etablieren."
     },
     "mission": {
-      "title": "Mission",
-      "subtitle": "Das \"Wie\" - Ihre tägliche Praxis",
-      "description": "Unsere Mission ist es, tiefgreifend personalisierte, ursachenbezogene Physiotherapie zu bieten. Wir kombinieren fortschrittliche manuelle Techniken mit ganzheitlichen Strategien und engagierter Patientenaufklärung, um nicht nur Schmerzen zu lindern, sondern auch die Funktion wiederherzustellen, Wiederverletzungen zu verhindern und Sie zu befähigen, der aktive Anführer Ihres eigenen Wohlbefindens zu werden."
+      "title": "Unsere Mission",
+      "description": "Unsere Mission ist es, professionelle, ursachenorientierte Physiotherapie zu liefern. Wir kombinieren modernste manuelle Therapie, medizinische Trainingstherapie und klinische Expertise mit einem partnerschaftlichen Ansatz. Wir lindern nicht nur Ihre Schmerzen; wir stellen Ihre Funktion wieder her, verhindern zukünftige Verletzungen und befähigen Sie, eine aktive Rolle in Ihrer eigenen Genesung und langfristigen Wohlbefinden zu übernehmen."
     },
     "goals": {
-      "title": "Ziele",
-      "subtitle": "Das \"Was\" - Ihre konkreten Ziele",
+      "title": "Unsere Ziele",
       "goal1": {
-        "title": "Tief zuhören",
-        "description": "Ihre einzigartige Geschichte, Ziele und Herausforderungen wirklich zu verstehen."
+        "title": "Präzise Diagnose",
+        "description": "Wir identifizieren die wahre Ursache Ihrer Beschwerden durch gründliche, gezielte körperliche Untersuchungen."
       },
       "goal2": {
-        "title": "Die Grundursache behandeln",
-        "description": "Über die Symptome hinausblicken und die zugrundeliegende Quelle Ihrer Schmerzen aufdecken."
+        "title": "Individuelle Therapiepläne",
+        "description": "Jeder Behandlungsplan ist zu 100% auf Ihren spezifischen Körper, Ihre Ziele und Bedürfnisse zugeschnitten, sei es für Schmerzlinderung, Rehabilitation nach einer Operation oder Leistungsoptimierung."
       },
       "goal3": {
-        "title": "Durch Bildung stärken",
-        "description": "Ihnen das Wissen und die Werkzeuge für langfristige Selbstverwaltung zu geben."
+        "title": "Aktive Teilnahme fördern",
+        "description": "Wir statten Sie mit dem Wissen, den Werkzeugen und dem Vertrauen aus, Ihre Gesundheit effektiv zu verwalten."
       },
       "goal4": {
-        "title": "Eine Partnerschaft aufbauen",
-        "description": "Ihr engagierter Führer und Unterstützer während Ihrer gesamten Heilungsreise zu sein."
+        "title": "Interdisziplinäre Zusammenarbeit",
+        "description": "Wir arbeiten eng mit Ärzten, Spezialisten und anderen Gesundheitsfachkräften zusammen, um sicherzustellen, dass Sie die umfassendste Betreuung erhalten."
+      },
+      "goal5": {
+        "title": "Nachhaltige Ergebnisse erzielen",
+        "description": "Unser Fokus liegt auf Ihrer langfristigen Gesundheit und bietet Ihnen die Grundlage, Ihre Ergebnisse zu erhalten und Rückfälle lange nach Abschluss Ihrer Behandlung zu verhindern."
       }
     },
+    "why_choose": {
+      "title": "Warum Lebenswerk Physiotherapie wählen?",
+      "reason1": {
+        "title": "Expertise und Erfahrung",
+        "description": "Unser Team besteht aus hochqualifizierten, spezialisierten und erfahrenen Physiotherapeuten."
+      },
+      "reason2": {
+        "title": "Evidenzbasierte Methoden",
+        "description": "Wir nutzen eine Reihe effektiver Techniken, von manueller Therapie und Dry Needling bis hin zu medizinischer Trainingstherapie, alle basierend auf neuester Wissenschaft."
+      },
+      "reason3": {
+        "title": "Ganzheitliche Praxis",
+        "description": "Wir berücksichtigen immer den ganzen Menschen—Ihren Lebensstil, tägliche Gewohnheiten und persönliche Ziele—um eine umfassende Genesungsstrategie zu erstellen."
+      },
+      "reason4": {
+        "title": "Befähigung durch Bildung",
+        "description": "Sie werden unsere Praxis nicht nur mit einem besseren Gefühl verlassen, sondern auch mit dem Verständnis für Ihren Körper und wie Sie ihn pflegen können."
+      }
+    },
+    "cta": "Buchen Sie noch heute Ihren Termin und beginnen Sie Ihre Reise zu nachhaltiger Schmerzlinderung und erneuerter Vitalität.",
+
     "approach": {
       "title": "Unser Ansatz",
       "description": "Unser Ziel ist es, Ihnen mit einer individuell abgestimmten Therapie und kompetenter Betreuung die bestmögliche Behandlung zu bieten.",

@@ -202,11 +202,11 @@ const Home = () => {
               animate={{ opacity: 1, x: 0 }}
               transition={{ duration: 0.6 }}
             >
-              <div className="rounded-lg overflow-hidden shadow-xl">
+              <div className="rounded-2xl overflow-hidden shadow-xl border-4 border-primary/20 shadow-primary/10 hover:border-primary/40 hover:shadow-primary/20 hover:shadow-2xl transition-all duration-300">
                 <img 
                   src="/images/vigan.jpeg" 
                   alt="Physiotherapist working with patient" 
-                  className="w-full h-auto object-cover"
+                  className="w-full h-auto object-cover hover:scale-105 transition-transform duration-300"
                 />
               </div>
 

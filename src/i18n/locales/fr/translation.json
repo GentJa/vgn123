@@ -202,13 +202,64 @@
   },
   "about": {
     "title": "À Propos",
-    "vision": {
-      "title": "Vision & Mission",
-      "paragraph1": "Nous nous engageons à rendre la physiothérapie accessible et efficace. Notre mission est de vous offrir plus de mobilité, moins de douleur et une meilleure qualité de vie grâce à des traitements ciblés dans votre environnement familier.",
-      "paragraph2": "En tant qu'équipe de physiothérapeutes bien formés et expérimentés, nous avons un objectif clair : vous aider à atteindre une haute qualité de vie grâce au meilleur traitement possible. Nous nous concentrons sur une thérapie moderne, adaptée individuellement - directement dans votre environnement familier.",
-      "paragraph3": "Grâce à notre physiothérapie mobile, nous pouvons prendre en compte de manière optimale votre quotidien et vous épargner des déplacements inutiles. En vous traitant à domicile, nous créons une atmosphère personnelle et confortable dans laquelle vous pouvez vous concentrer pleinement sur votre guérison.",
-      "paragraph4": "Pour nous, il ne s'agit pas seulement de savoir-faire - nous prenons du temps pour vous. Chaque traitement est spécialement adapté à vos plaintes, besoins et objectifs. Vous ressentirez cette approche individuelle et l'expérience de nos thérapeutes à chaque geste."
+    "subtitle": "Votre Partenaire pour une Santé Durable et un Mouvement sans Douleur",
+    "intro": "Nous sommes Lebenswerk Physiothérapie. Notre nom reflète notre conviction fondamentale : que votre physiothérapie et votre bien-être sont un investissement valable dans l'œuvre de votre vie. Nous nous consacrons à fournir une physiothérapie experte qui vous aide à récupérer, à mieux bouger et à vivre pleinement.",
+    "philosophy": {
+      "title": "Notre Philosophie : Physiothérapie Holistique",
+      "description": "Nous croyons en traiter la personne entière, pas seulement la blessure. En tant que physiothérapeutes experts, nous comprenons que la douleur dans une zone est souvent le résultat de déséquilibres ailleurs. Notre approche est de regarder au-delà des symptômes pour trouver et traiter la cause racine de votre problème, assurant des résultats durables au lieu d'une solution temporaire."
     },
+    "vision": {
+      "title": "Notre Vision",
+      "description": "Notre vision est une communauté où chaque individu peut mener une vie autodéterminée et active sans douleur ni limitations. Nous nous engageons à établir la physiothérapie comme un pilier directeur pour la santé à long terme, la vitalité et la qualité de vie."
+    },
+    "mission": {
+      "title": "Notre Mission",
+      "description": "Notre mission est de fournir une physiothérapie professionnelle et orientée vers les causes. Nous combinons la thérapie manuelle de pointe, la thérapie d'entraînement médical et l'expertise clinique avec une approche basée sur le partenariat. Nous ne soulageons pas seulement votre douleur ; nous restaurons votre fonction, prévenons les blessures futures et vous permettons de jouer un rôle actif dans votre propre récupération et bien-être à long terme."
+    },
+    "goals": {
+      "title": "Nos Objectifs",
+      "goal1": {
+        "title": "Diagnostic Précis",
+        "description": "Nous identifions la vraie cause de vos plaintes grâce à des évaluations physiques approfondies et ciblées."
+      },
+      "goal2": {
+        "title": "Plans de Thérapie Individuels",
+        "description": "Chaque plan de traitement est adapté à 100% à votre corps spécifique, à vos objectifs et besoins, que ce soit pour le soulagement de la douleur, la réhabilitation après une chirurgie ou l'optimisation des performances."
+      },
+      "goal3": {
+        "title": "Promouvoir la Participation Active",
+        "description": "Nous vous équipons avec les connaissances, les outils et la confiance pour gérer efficacement votre santé."
+      },
+      "goal4": {
+        "title": "Collaboration Interdisciplinaire",
+        "description": "Nous travaillons étroitement avec les médecins, spécialistes et autres professionnels de la santé pour vous assurer de recevoir les soins les plus complets possibles."
+      },
+      "goal5": {
+        "title": "Atteindre des Résultats Durables",
+        "description": "Notre focus est sur votre santé à long terme, vous fournissant la fondation pour maintenir vos résultats et prévenir les rechutes longtemps après la fin de votre traitement."
+      }
+    },
+    "why_choose": {
+      "title": "Pourquoi Choisir Lebenswerk Physiothérapie ?",
+      "reason1": {
+        "title": "Expertise et Expérience",
+        "description": "Notre équipe se compose de physiothérapeutes hautement formés, spécialisés et expérimentés."
+      },
+      "reason2": {
+        "title": "Méthodes Basées sur les Preuves",
+        "description": "Nous utilisons une gamme de techniques efficaces, de la thérapie manuelle et du dry needling à la thérapie d'exercice médical, toutes fondées sur la science la plus récente."
+      },
+      "reason3": {
+        "title": "Pratique Holistique",
+        "description": "Nous considérons toujours la personne entière—votre style de vie, vos habitudes quotidiennes et vos objectifs personnels—pour créer une stratégie de récupération complète."
+      },
+      "reason4": {
+        "title": "Autonomisation par l'Éducation",
+        "description": "Vous quitterez notre pratique non seulement en vous sentant mieux, mais aussi en comprenant votre corps et comment en prendre soin."
+      }
+    },
+    "cta": "Réservez votre rendez-vous aujourd'hui et commencez votre voyage vers un soulagement durable de la douleur et une vitalité renouvelée.",
+
     "approach": {
       "title": "Notre Approche",
       "description": "Notre objectif est de vous offrir le meilleur traitement possible avec une thérapie adaptée individuellement et des soins compétents.",

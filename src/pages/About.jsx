@@ -85,132 +85,133 @@ const About = () => {
           </div>
         </motion.div>
         
-        <div className="grid grid-cols-1 md:grid-cols-2 gap-12 mb-12">
+        {/* Introduction Section */}
+        <motion.div 
+          className="text-center mb-12"
+          variants={fadeIn}
+          initial="initial"
+          whileInView="animate"
+          viewport={{ once: true }}
+        >
+          <p className="text-lg text-gray-700 max-w-4xl mx-auto leading-relaxed">{t('about.intro')}</p>
+        </motion.div>
+
+        {/* Philosophy Section */}
+        <motion.div 
+          className="mb-16"
+          variants={fadeIn}
+          initial="initial"
+          whileInView="animate"
+          viewport={{ once: true }}
+        >
+          <div className="bg-white/90 p-8 rounded-2xl shadow-lg border-l-4 border-primary">
+            <h2 className="text-2xl md:text-3xl font-bold text-primary mb-4">{t('about.philosophy.title')}</h2>
+            <p className="text-gray-700 text-base leading-relaxed">{t('about.philosophy.description')}</p>
+          </div>
+        </motion.div>
+
+        {/* Vision & Mission Grid */}
+        <div className="grid grid-cols-1 lg:grid-cols-2 gap-8 md:gap-12 mb-16">
           <motion.div 
-            className="about-vision bg-white/90 p-4 md:p-6 rounded-lg"
+            className="vision-section"
             variants={fadeIn}
             initial="initial"
             whileInView="animate"
             viewport={{ once: true }}
           >
-            <h2 className="text-2xl md:text-4xl font-bold text-primary mb-4 md:mb-6 text-wrap-balance">{t('about.vision.title')}</h2>
-            <p className="text-gray-700 mb-4 break-words-safe text-sm md:text-base">{t('about.vision.description')}</p>
-            <p className="text-gray-700 break-words-safe text-sm md:text-base">{t('about.vision.goal')}</p>
+            <div className="bg-primary/5 p-8 rounded-2xl h-full">
+              <h2 className="text-2xl md:text-3xl font-bold text-primary mb-4">{t('about.vision.title')}</h2>
+              <p className="text-gray-700 text-base leading-relaxed">{t('about.vision.description')}</p>
+            </div>
           </motion.div>
           
           <motion.div 
-            className="about-image"
+            className="mission-section"
             variants={fadeIn}
             initial="initial"
             whileInView="animate"
             viewport={{ once: true }}
           >
-            <div className="bg-white/90 p-4 md:p-6 rounded-lg">
-              <div className="bg-primary/20 h-48 md:h-64 rounded-lg flex items-center justify-center text-primary font-medium">
-                Team Image
-              </div>
+            <div className="bg-primary/5 p-8 rounded-2xl h-full">
+              <h2 className="text-2xl md:text-3xl font-bold text-primary mb-4">{t('about.mission.title')}</h2>
+              <p className="text-gray-700 text-base leading-relaxed">{t('about.mission.description')}</p>
             </div>
           </motion.div>
         </div>
-        
-        {/* <motion.div 
-          className="team-section mb-12"
+
+        {/* Image Section */}
+        <motion.div 
+          className="about-image mb-16"
           variants={fadeIn}
           initial="initial"
           whileInView="animate"
           viewport={{ once: true }}
         >
-          <h2 className="text-3xl font-bold text-primary mb-6">{t('about.team.title')}</h2>
-          <p className="text-gray-700 mb-8">{t('about.team.description')}</p>
-          
-          <div className="grid grid-cols-1 md:grid-cols-3 gap-8">
-            <motion.div 
-              className="team-member bg-white p-6 rounded-lg text-center shadow-md"
-              whileHover={{ y: -5, transition: { duration: 0.3 } }}
-            >
-              <div className="w-32 h-32 rounded-full bg-primary bg-opacity-20 mx-auto mb-4 flex items-center justify-center">
-                <FaLeaf className="text-primary text-3xl" />
-              </div>
-              <h3 className="text-xl font-bold text-primary mb-2">{t('about.team.member1.name')}</h3>
-              <p className="text-gray-600 mb-2">{t('about.team.member1.position')}</p>
-              <p className="text-gray-700">{t('about.team.member1.bio')}</p>
-            </motion.div>
-            
-            <motion.div 
-              className="team-member bg-white p-6 rounded-lg text-center shadow-md"
-              whileHover={{ y: -5, transition: { duration: 0.3 } }}
-            >
-              <div className="w-32 h-32 rounded-full bg-primary bg-opacity-20 mx-auto mb-4 flex items-center justify-center">
-                <FaHandshake className="text-primary text-3xl" />
-              </div>
-              <h3 className="text-xl font-bold text-primary mb-2">{t('about.team.member2.name')}</h3>
-              <p className="text-gray-600 mb-2">{t('about.team.member2.position')}</p>
-              <p className="text-gray-700">{t('about.team.member2.bio')}</p>
-            </motion.div>
-            
-            <motion.div 
-              className="team-member bg-white p-6 rounded-lg text-center shadow-md"
-              whileHover={{ y: -5, transition: { duration: 0.3 } }}
-            >
-              <div className="w-32 h-32 rounded-full bg-primary bg-opacity-20 mx-auto mb-4 flex items-center justify-center">
-                <FaClock className="text-primary text-3xl" />
-              </div>
-              <h3 className="text-xl font-bold text-primary mb-2">{t('about.team.member3.name')}</h3>
-              <p className="text-gray-600 mb-2">{t('about.team.member3.position')}</p>
-              <p className="text-gray-700">{t('about.team.member3.bio')}</p>
-            </motion.div>
+          <div className="rounded-2xl overflow-hidden shadow-xl border-4 border-primary/20 shadow-primary/10 hover:border-primary/40 hover:shadow-primary/20 hover:shadow-2xl transition-all duration-300 max-w-2xl mx-auto">
+            <img 
+              src="/images/2.png" 
+              alt="Physiotherapist working with patient" 
+              className="w-full h-auto object-cover hover:scale-105 transition-transform duration-300"
+            />
           </div>
-        </motion.div> */}
-        
-        {/* <motion.div 
-          className="values-section mb-12"
+        </motion.div>
+
+        {/* Goals Section */}
+        <motion.div 
+          className="goals-section mb-16"
           variants={fadeIn}
           initial="initial"
           whileInView="animate"
           viewport={{ once: true }}
         >
-          <h2 className="text-3xl font-bold text-primary mb-6">{t('about.values.title')}</h2>
-          
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
-            <div className="bg-white p-6 rounded-lg shadow-md border-l-4 border-primary">
-              <h3 className="text-xl font-bold text-primary mb-2">{t('about.values.quality.title')}</h3>
-              <p className="text-gray-700">{t('about.values.quality.description')}</p>
-            </div>
-            
-            <div className="bg-white p-6 rounded-lg shadow-md border-l-4 border-primary">
-              <h3 className="text-xl font-bold text-primary mb-2">{t('about.values.care.title')}</h3>
-              <p className="text-gray-700">{t('about.values.care.description')}</p>
-            </div>
-            
-            <div className="bg-white p-6 rounded-lg shadow-md border-l-4 border-primary">
-              <h3 className="text-xl font-bold text-primary mb-2">{t('about.values.innovation.title')}</h3>
-              <p className="text-gray-700">{t('about.values.innovation.description')}</p>
-            </div>
-            
-            <div className="bg-white p-6 rounded-lg shadow-md border-l-4 border-primary">
-              <h3 className="text-xl font-bold text-primary mb-2">{t('about.values.integrity.title')}</h3>
-              <p className="text-gray-700">{t('about.values.integrity.description')}</p>
-            </div>
+          <h2 className="text-3xl md:text-4xl font-bold text-primary mb-8 text-center">{t('about.goals.title')}</h2>
+          <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            {[1, 2, 3, 4, 5].map((num) => (
+              <motion.div 
+                key={num}
+                className="bg-white p-6 rounded-xl shadow-md border-l-4 border-primary hover:shadow-lg transition-shadow duration-300"
+                whileHover={{ y: -5 }}
+              >
+                <h3 className="text-lg font-bold text-primary mb-3">{t(`about.goals.goal${num}.title`)}</h3>
+                <p className="text-gray-700 text-sm leading-relaxed">{t(`about.goals.goal${num}.description`)}</p>
+              </motion.div>
+            ))}
           </div>
-        </motion.div> */}
-        
-        {/* <motion.div 
-          className="cta-section bg-primary text-white p-8 rounded-lg text-center"
+        </motion.div>
+
+        {/* Why Choose Us Section */}
+        <motion.div 
+          className="why-choose-section mb-16"
           variants={fadeIn}
           initial="initial"
           whileInView="animate"
           viewport={{ once: true }}
         >
-          <h2 className="text-3xl font-bold mb-4">{t('about.cta.title')}</h2>
-          <p className="mb-6">{t('about.cta.description')}</p>
-          <motion.button 
-            className="bg-white text-primary px-6 py-3 rounded-lg hover:bg-gray-100 transition-all font-medium"
-            whileHover={{ scale: 1.05 }}
-            whileTap={{ scale: 0.95 }}
-          >
-            {t('about.cta.button')}
-          </motion.button>
-        </motion.div> */}
+          <h2 className="text-3xl md:text-4xl font-bold text-primary mb-8 text-center">{t('about.why_choose.title')}</h2>
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
+            {[1, 2, 3, 4].map((num) => (
+              <motion.div 
+                key={num}
+                className="bg-white/90 p-6 rounded-xl shadow-lg border-2 border-primary/10 hover:border-primary/30 transition-all duration-300"
+                whileHover={{ scale: 1.02 }}
+              >
+                <h3 className="text-xl font-bold text-primary mb-4">{t(`about.why_choose.reason${num}.title`)}</h3>
+                <p className="text-gray-700 leading-relaxed">{t(`about.why_choose.reason${num}.description`)}</p>
+              </motion.div>
+            ))}
+          </div>
+        </motion.div>
+
+        {/* Call to Action */}
+        <motion.div 
+          className="cta-section bg-primary text-white p-8 rounded-2xl text-center"
+          variants={fadeIn}
+          initial="initial"
+          whileInView="animate"
+          viewport={{ once: true }}
+        >
+          <p className="text-lg md:text-xl leading-relaxed">{t('about.cta')}</p>
+        </motion.div>
       </div>
     </div>
   );
