@@ -209,8 +209,10 @@ const Contact = () => {
                   <FaPhone className="text-lg" />
                 </div>
                 <div>
-                  <h3 className="font-bold text-primary text-lg">Telefon</h3>
-                  <p className="text-gray-700">+49 30 1234567</p>
+                  <h3 className="font-bold text-primary text-lg">{t('contact.info.phone')}</h3>
+                  <p className="text-gray-700">{t('contact.info.phone_direct')}</p>
+                  <p className="text-gray-600 text-sm">{t('contact.info.phone_direct_text')}</p>
+                  <p className="text-gray-700 mt-2">{t('contact.info.phone_appointment')}</p>
                 </div>
               </div>
               

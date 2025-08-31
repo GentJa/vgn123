@@ -316,6 +316,9 @@
     },
     "info": {
       "phone": "Téléphone",
+      "phone_direct": "078 922 72 74",
+      "phone_direct_text": "Vous pouvez me joindre directement au 078 922 72 74.",
+      "phone_appointment": "078 800 72 45",
       "email": "Email",
       "address": "Adresse",
       "hours": "Heures d'ouverture"
