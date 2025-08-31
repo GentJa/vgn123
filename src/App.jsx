@@ -5,7 +5,7 @@ import { useTranslation } from 'react-i18next';
 
 import Navbar from './components/Navbar';
 import Footer from './components/Footer';
-import ChatBot from './components/ChatBot';
+
 import Home from './pages/Home';
 import Service from './pages/Service';
 import Services from './pages/Services';
@@ -218,7 +218,7 @@ function App() {
         </AnimatePresence>
       </main>
       <Footer />
-      <ChatBot />
+
     </div>
   );
 }
