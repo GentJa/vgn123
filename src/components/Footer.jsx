@@ -127,7 +127,7 @@ const Footer = () => {
             </h3>
             <ul className="space-y-3">
               <li>
-                <LocalizedLink to="/location/bern" className="text-white/80 hover:text-white transition-colors flex items-center">
+                <LocalizedLink to="/contact" className="text-white/80 hover:text-white transition-colors flex items-center">
                   <FaMapMarkerAlt className="mr-2 text-white/60" /> Solothurn
                 </LocalizedLink>
               </li>
