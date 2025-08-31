@@ -33,21 +33,21 @@ const Home = () => {
   
   // SEO translations based on language
   const seoTitles = {
-    de: "LEBENSWERK - Professionelle mobile Physiotherapie bei Ihnen zuhause",
-    en: "LEBENSWERK - Professional mobile physiotherapy in your home",
-    fr: "LEBENSWERK - Physiothérapie mobile professionnelle à votre domicile"
+    de: "Vigan Musliu - LEBENSWERK Mobile Physiotherapie Solothurn | Hausbesuch Schweiz",
+    en: "Vigan Musliu - LEBENSWERK Mobile Physiotherapy Solothurn | Home Visits Switzerland",
+    fr: "Vigan Musliu - LEBENSWERK Physiothérapie Mobile Soleure | Visites à Domicile Suisse"
   };
   
   const seoDescriptions = {
-    de: "✔ LEBENSWERK - Professionelle Physiotherapie bei Ihnen zuhause – individuell, flexibel und ohne Anfahrtsstress. Jetzt beraten lassen!",
-    en: "✔ LEBENSWERK - Professional physiotherapy in your home – personalized, flexible and without travel stress. Get advice now!",
-    fr: "✔ LEBENSWERK - Physiothérapie professionnelle à domicile – personnalisée, flexible et sans stress de déplacement. Obtenez des conseils maintenant!"
+    de: "✔ Vigan Musliu - LEBENSWERK Physiotherapie Solothurn. Mobile Behandlung bei Ihnen zuhause. Professionell, flexibel, ohne Anfahrtsstress. Schweizweit verfügbar!",
+    en: "✔ Vigan Musliu - LEBENSWERK Physiotherapy Solothurn. Mobile treatment in your home. Professional, flexible, without travel stress. Available throughout Switzerland!",
+    fr: "✔ Vigan Musliu - LEBENSWERK Physiothérapie Soleure. Traitement mobile à domicile. Professionnel, flexible, sans stress de déplacement. Disponible dans toute la Suisse!"
   };
   
   const seoKeywords = {
-    de: ["LEBENSWERK", "LEBENSWERK Physiotherapie", "LEBENSWERK Berlin", "physiotherapie", "mobile physiotherapie", "physiotherapie berlin", "physiotherapie hausbesuch", "physiotherapeut", "krankengymnastik", "rehabilitation", "schmerztherapie", "physiotherapie zu hause", "manuelle therapie", "lymphdrainage", "physiotherapie praxis"],
-    en: ["LEBENSWERK", "LEBENSWERK Physiotherapy", "LEBENSWERK Berlin", "physiotherapy", "mobile physiotherapy", "physiotherapy berlin", "home physiotherapy", "physiotherapist", "physical therapy", "rehabilitation", "pain therapy", "manual therapy", "lymphatic drainage", "physiotherapy clinic"],
-    fr: ["LEBENSWERK", "LEBENSWERK Physiothérapie", "LEBENSWERK Berlin", "physiothérapie", "physiothérapie mobile", "physiothérapie berlin", "physiothérapie à domicile", "physiothérapeute", "thérapie physique", "réhabilitation", "thérapie de la douleur", "thérapie manuelle", "drainage lymphatique", "clinique physiothérapie"]
+    de: ["Vigan Musliu", "Vigan Musliu Physiotherapie", "Vigan Musliu Physiotherapeut", "Vigan Musliu Solothurn", "LEBENSWERK", "LEBENSWERK Physiotherapie", "LEBENSWERK Solothurn", "LEBENSWERK Physiotherapie Solothurn", "physiotherapie solothurn", "mobile physiotherapie solothurn", "physiotherapeut solothurn", "physiotherapie", "mobile physiotherapie", "physiotherapie hausbesuch", "physiotherapeut", "krankengymnastik", "rehabilitation", "schmerztherapie", "physiotherapie zu hause", "manuelle therapie", "lymphdrainage", "physiotherapie schweiz"],
+    en: ["Vigan Musliu", "Vigan Musliu Physiotherapy", "Vigan Musliu Physiotherapist", "Vigan Musliu Solothurn", "LEBENSWERK", "LEBENSWERK Physiotherapy", "LEBENSWERK Solothurn", "LEBENSWERK Physiotherapy Solothurn", "physiotherapy solothurn", "mobile physiotherapy solothurn", "physiotherapist solothurn", "physiotherapy", "mobile physiotherapy", "home physiotherapy", "physiotherapist", "physical therapy", "rehabilitation", "pain therapy", "manual therapy", "lymphatic drainage", "physiotherapy switzerland"],
+    fr: ["Vigan Musliu", "Vigan Musliu Physiothérapie", "Vigan Musliu Physiothérapeute", "Vigan Musliu Soleure", "LEBENSWERK", "LEBENSWERK Physiothérapie", "LEBENSWERK Soleure", "LEBENSWERK Physiothérapie Soleure", "physiothérapie soleure", "physiothérapie mobile soleure", "physiothérapeute soleure", "physiothérapie", "physiothérapie mobile", "physiothérapie à domicile", "physiothérapeute", "thérapie physique", "réhabilitation", "thérapie de la douleur", "thérapie manuelle", "drainage lymphatique", "physiothérapie suisse"]
   };
   const [showCopyMessage, setShowCopyMessage] = useState(false);
   const phoneNumber = "078 922 72 74";

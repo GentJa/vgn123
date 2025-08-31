@@ -12,16 +12,16 @@ const StructuredData = ({
   description,
   image = '/images/home-hero.jpg',
   url,
-  telephone = '+49 30 1234567',
+  telephone = '078 922 72 74',
   address = {
-    streetAddress: 'Musterstraße 123',
-    addressLocality: 'Berlin',
-    postalCode: '10115',
-    addressCountry: 'DE'
+    streetAddress: 'Hauptgasse 15',
+    addressLocality: 'Solothurn',
+    postalCode: '4500',
+    addressCountry: 'CH'
   },
   geo = {
-    latitude: '52.520008',
-    longitude: '13.404954'
+    latitude: '47.208333',
+    longitude: '7.536944'
   },
   openingHours = [
     'Mo-Fr 08:00-20:00',
@@ -77,6 +77,15 @@ const StructuredData = ({
           ...serviceArea.geoMidpoint
         },
         geoRadius: serviceArea.geoRadius
+      },
+      employee: {
+        '@type': 'Person',
+        name: 'Vigan Musliu',
+        jobTitle: 'Physiotherapeut',
+        worksFor: {
+          '@type': 'Organization',
+          name: 'LEBENSWERK - Mobile Physiotherapie 24'
+        }
       }
     };
     
