@@ -45,9 +45,9 @@ const Home = () => {
   };
   
   const seoKeywords = {
-    de: ["mobile physiotherapie", "hausbesuch", "krankengymnastik", "physiotherapeut", "rehabilitation", "schmerztherapie", "physiotherapie zu hause"],
-    en: ["mobile physiotherapy", "home visit", "physical therapy", "physiotherapist", "rehabilitation", "pain therapy", "physiotherapy at home"],
-    fr: ["physiothérapie mobile", "visite à domicile", "thérapie physique", "physiothérapeute", "réhabilitation", "thérapie de la douleur", "physiothérapie à domicile"]
+    de: ["physiotherapie", "mobile physiotherapie", "physiotherapie berlin", "physiotherapie hausbesuch", "physiotherapeut", "krankengymnastik", "rehabilitation", "schmerztherapie", "physiotherapie zu hause", "manuelle therapie", "lymphdrainage", "physiotherapie praxis"],
+    en: ["physiotherapy", "mobile physiotherapy", "physiotherapy berlin", "home physiotherapy", "physiotherapist", "physical therapy", "rehabilitation", "pain therapy", "manual therapy", "lymphatic drainage", "physiotherapy clinic"],
+    fr: ["physiothérapie", "physiothérapie mobile", "physiothérapie berlin", "physiothérapie à domicile", "physiothérapeute", "thérapie physique", "réhabilitation", "thérapie de la douleur", "thérapie manuelle", "drainage lymphatique", "clinique physiothérapie"]
   };
   const [showCopyMessage, setShowCopyMessage] = useState(false);
   const phoneNumber = "078 922 72 74";
