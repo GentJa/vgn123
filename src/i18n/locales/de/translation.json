@@ -304,12 +304,36 @@
   },
   "about": {
     "title": "Über uns",
+    "subtitle": "Ihr Partner auf dem Weg zu nachhaltiger Gesundheit und schmerzfreier Bewegung",
     "vision": {
-      "title": "Vision & Mission",
-      "paragraph1": "Wir setzen alles daran, Physiotherapie zugänglich und wirksam zu machen. Unsere Mission ist es, Ihnen durch gezielte Behandlungen in Ihrer vertrauten Umgebung mehr Beweglichkeit, weniger Schmerzen und eine bessere Lebensqualität zu ermöglichen.",
-      "paragraph2": "Als ein Team aus gut ausgebildeten und erfahrenen Physiotherapeuten haben wir ein klares Ziel: Ihnen durch eine bestmögliche Behandlung zu einer hohen Lebensqualität zu verhelfen. Wir setzen auf eine moderne, individuell auf Sie abgestimmte Therapie – direkt in Ihrer vertrauten Umgebung.",
-      "paragraph3": "Durch unsere mobile Physiotherapie können wir Ihren Alltag optimal berücksichtigen und Ihnen unnötige Wege ersparen. Indem wir Sie zu Hause behandeln, schaffen wir eine persönliche und komfortable Atmosphäre, in der Sie sich vollkommen auf Ihre Genesung konzentrieren können.",
-      "paragraph4": "Bei uns steht nicht nur das Know-how im Fokus – wir nehmen uns Zeit für Sie. Jede Behandlung ist speziell auf Ihre Beschwerden, Bedürfnisse und Ziele zugeschnitten. Diese individuelle Herangehensweise sowie die Erfahrung unserer Therapeuten spüren Sie bei jedem Handgriff."
+      "title": "Vision",
+      "subtitle": "Das \"Warum\" - Ihre ultimative Bestrebung",
+      "description": "Unsere Vision ist eine Gemeinschaft, in der jeder Einzelne das Wissen und die Fähigkeit hat, ein lebendiges, aktives Leben ohne Schmerzen zu führen. Wir sehen eine Zukunft, in der Physiotherapie eine proaktive Reise der Ermächtigung ist, nicht nur eine reaktive Behandlung."
+    },
+    "mission": {
+      "title": "Mission",
+      "subtitle": "Das \"Wie\" - Ihre tägliche Praxis",
+      "description": "Unsere Mission ist es, tiefgreifend personalisierte, ursachenbezogene Physiotherapie zu bieten. Wir kombinieren fortschrittliche manuelle Techniken mit ganzheitlichen Strategien und engagierter Patientenaufklärung, um nicht nur Schmerzen zu lindern, sondern auch die Funktion wiederherzustellen, Wiederverletzungen zu verhindern und Sie zu befähigen, der aktive Anführer Ihres eigenen Wohlbefindens zu werden."
+    },
+    "goals": {
+      "title": "Ziele",
+      "subtitle": "Das \"Was\" - Ihre konkreten Ziele",
+      "goal1": {
+        "title": "Tief zuhören",
+        "description": "Ihre einzigartige Geschichte, Ziele und Herausforderungen wirklich zu verstehen."
+      },
+      "goal2": {
+        "title": "Die Grundursache behandeln",
+        "description": "Über die Symptome hinausblicken und die zugrundeliegende Quelle Ihrer Schmerzen aufdecken."
+      },
+      "goal3": {
+        "title": "Durch Bildung stärken",
+        "description": "Ihnen das Wissen und die Werkzeuge für langfristige Selbstverwaltung zu geben."
+      },
+      "goal4": {
+        "title": "Eine Partnerschaft aufbauen",
+        "description": "Ihr engagierter Führer und Unterstützer während Ihrer gesamten Heilungsreise zu sein."
+      }
     },
     "approach": {
       "title": "Unser Ansatz",

@@ -145,12 +145,36 @@
   },
   "about": {
     "title": "About Us",
+    "subtitle": "Your Partner on the Path to Sustainable Health and Pain-Free Movement",
     "vision": {
-      "title": "Vision & Mission",
-      "paragraph1": "We are committed to making physiotherapy accessible and effective. Our mission is to provide you with more mobility, less pain, and a better quality of life through targeted treatments in your familiar environment.",
-      "paragraph2": "As a team of well-trained and experienced physiotherapists, we have a clear goal: to help you achieve a high quality of life through the best possible treatment. We focus on modern, individually tailored therapy - right in your familiar environment.",
-      "paragraph3": "Through our mobile physiotherapy, we can optimally take your everyday life into account and save you unnecessary journeys. By treating you at home, we create a personal and comfortable atmosphere in which you can fully concentrate on your recovery.",
-      "paragraph4": "For us, it's not just about know-how - we take time for you. Each treatment is specially tailored to your complaints, needs, and goals. You will feel this individual approach and the experience of our therapists in every touch."
+      "title": "Vision",
+      "subtitle": "The \"Why\" - Your Ultimate Aspiration",
+      "description": "Our vision is a community where every individual has the knowledge and ability to live a vibrant, active life, unhindered by pain. We see a future where physiotherapy is a proactive journey of empowerment, not just a reactive treatment."
+    },
+    "mission": {
+      "title": "Mission",
+      "subtitle": "The \"How\" - Your Daily Practice",
+      "description": "Our mission is to provide deeply personalized, root-cause physiotherapy. We combine advanced manual techniques with holistic strategies and dedicated patient education to not only alleviate pain but to restore function, prevent re-injury, and empower you to become the active leader of your own well-being."
+    },
+    "goals": {
+      "title": "Goals",
+      "subtitle": "The \"What\" - Your Concrete Objectives",
+      "goal1": {
+        "title": "To Listen Deeply",
+        "description": "To truly understand your unique story, goals, and challenges."
+      },
+      "goal2": {
+        "title": "To Treat the Root Cause",
+        "description": "To look beyond the symptoms and uncover the underlying source of your pain."
+      },
+      "goal3": {
+        "title": "To Empower Through Education",
+        "description": "To provide you with the knowledge and tools for long-term self-management."
+      },
+      "goal4": {
+        "title": "To Build a Partnership",
+        "description": "To be your dedicated guide and supporter throughout your entire healing journey."
+      }
     },
     "approach": {
       "title": "Our Approach",
