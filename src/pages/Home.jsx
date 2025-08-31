@@ -33,21 +33,21 @@ const Home = () => {
   
   // SEO translations based on language
   const seoTitles = {
-    de: "Professionelle mobile Physiotherapie bei Ihnen zuhause",
-    en: "Professional mobile physiotherapy in your home",
-    fr: "Physiothérapie mobile professionnelle à votre domicile"
+    de: "LEBENSWERK - Professionelle mobile Physiotherapie bei Ihnen zuhause",
+    en: "LEBENSWERK - Professional mobile physiotherapy in your home",
+    fr: "LEBENSWERK - Physiothérapie mobile professionnelle à votre domicile"
   };
   
   const seoDescriptions = {
-    de: "✔ Professionelle Physiotherapie bei Ihnen zuhause – individuell, flexibel und ohne Anfahrtsstress. Jetzt beraten lassen!",
-    en: "✔ Professional physiotherapy in your home – personalized, flexible and without travel stress. Get advice now!",
-    fr: "✔ Physiothérapie professionnelle à domicile – personnalisée, flexible et sans stress de déplacement. Obtenez des conseils maintenant!"
+    de: "✔ LEBENSWERK - Professionelle Physiotherapie bei Ihnen zuhause – individuell, flexibel und ohne Anfahrtsstress. Jetzt beraten lassen!",
+    en: "✔ LEBENSWERK - Professional physiotherapy in your home – personalized, flexible and without travel stress. Get advice now!",
+    fr: "✔ LEBENSWERK - Physiothérapie professionnelle à domicile – personnalisée, flexible et sans stress de déplacement. Obtenez des conseils maintenant!"
   };
   
   const seoKeywords = {
-    de: ["physiotherapie", "mobile physiotherapie", "physiotherapie berlin", "physiotherapie hausbesuch", "physiotherapeut", "krankengymnastik", "rehabilitation", "schmerztherapie", "physiotherapie zu hause", "manuelle therapie", "lymphdrainage", "physiotherapie praxis"],
-    en: ["physiotherapy", "mobile physiotherapy", "physiotherapy berlin", "home physiotherapy", "physiotherapist", "physical therapy", "rehabilitation", "pain therapy", "manual therapy", "lymphatic drainage", "physiotherapy clinic"],
-    fr: ["physiothérapie", "physiothérapie mobile", "physiothérapie berlin", "physiothérapie à domicile", "physiothérapeute", "thérapie physique", "réhabilitation", "thérapie de la douleur", "thérapie manuelle", "drainage lymphatique", "clinique physiothérapie"]
+    de: ["LEBENSWERK", "LEBENSWERK Physiotherapie", "LEBENSWERK Berlin", "physiotherapie", "mobile physiotherapie", "physiotherapie berlin", "physiotherapie hausbesuch", "physiotherapeut", "krankengymnastik", "rehabilitation", "schmerztherapie", "physiotherapie zu hause", "manuelle therapie", "lymphdrainage", "physiotherapie praxis"],
+    en: ["LEBENSWERK", "LEBENSWERK Physiotherapy", "LEBENSWERK Berlin", "physiotherapy", "mobile physiotherapy", "physiotherapy berlin", "home physiotherapy", "physiotherapist", "physical therapy", "rehabilitation", "pain therapy", "manual therapy", "lymphatic drainage", "physiotherapy clinic"],
+    fr: ["LEBENSWERK", "LEBENSWERK Physiothérapie", "LEBENSWERK Berlin", "physiothérapie", "physiothérapie mobile", "physiothérapie berlin", "physiothérapie à domicile", "physiothérapeute", "thérapie physique", "réhabilitation", "thérapie de la douleur", "thérapie manuelle", "drainage lymphatique", "clinique physiothérapie"]
   };
   const [showCopyMessage, setShowCopyMessage] = useState(false);
   const phoneNumber = "078 922 72 74";

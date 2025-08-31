@@ -8,7 +8,7 @@ import PropTypes from 'prop-types';
  */
 const StructuredData = ({ 
   type = 'LocalBusiness',
-  name = 'Mobile Physiotherapie 24',
+  name = 'LEBENSWERK - Mobile Physiotherapie 24',
   description,
   image = '/images/home-hero.jpg',
   url,

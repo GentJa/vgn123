@@ -27,7 +27,7 @@ const SEO = ({
   
   useEffect(() => {
     // Update page title
-    const pageTitle = title ? `${title} | Mobile Physiotherapie 24` : 'Mobile Physiotherapie 24';
+    const pageTitle = title ? `${title} | LEBENSWERK` : 'LEBENSWERK - Mobile Physiotherapie 24';
     document.title = pageTitle;
     
     // Update meta description
