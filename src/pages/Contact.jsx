@@ -184,25 +184,19 @@ const Contact = () => {
       <div className="container mx-auto max-w-6xl relative z-10">
         {/* Contact Header */}
         <div className="py-12">
-          <motion.h1 
-            className="text-4xl md:text-5xl font-bold text-center mb-2"
+          <motion.div
             initial={{ opacity: 0, y: -20 }}
             animate={{ opacity: 1, y: 0 }}
-            transition={{ duration: 0.5 }}
+            transition={{ duration: 0.8 }}
           >
-            {t('contact.title')}
-          </motion.h1>
-          <motion.p 
-            className="text-xl text-gray-600 text-center mb-12"
-            initial={{ opacity: 0 }}
-            animate={{ opacity: 1 }}
-            transition={{ duration: 0.5, delay: 0.2 }}
-          >
-            {t('contact.subtitle')}
-          </motion.p>
+            <div className="bg-white/90 backdrop-blur-sm p-4 md:p-6 rounded-lg inline-block w-full md:w-auto">
+              <h1 className="text-3xl md:text-5xl font-bold text-primary mb-3 md:mb-6 text-wrap-balance">{t('contact.title')}</h1>
+            </div>
+          </motion.div>
+
           
           {/* Contact Content */}
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-12">
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-16 lg:gap-20">
             <motion.div 
               className="contact-info space-y-8"
               variants={fadeIn}
@@ -216,7 +210,7 @@ const Contact = () => {
                 </div>
                 <div>
                   <h3 className="font-bold text-primary text-lg">Telefon</h3>
-                  <p className="text-gray-700">+41 31 371 03 01</p>
+                  <p className="text-gray-700">+49 30 1234567</p>
                 </div>
               </div>
               
@@ -237,8 +231,8 @@ const Contact = () => {
                 <div>
                   <h3 className="font-bold text-primary text-lg">Adresse</h3>
                   <p className="text-gray-700">LEBENSWERK Physiotherapie</p>
-                  <p className="text-gray-700">Monbijoustrasse 73</p>
-                  <p className="text-gray-700">3007 Bern, Schweiz</p>
+                  <p className="text-gray-700">Römmerstrasse 25</p>
+                  <p className="text-gray-700">4512 Bellach, Schweiz</p>
                 </div>
               </div>
               
@@ -248,8 +242,7 @@ const Contact = () => {
                 </div>
                 <div>
                   <h3 className="font-bold text-primary text-lg">Öffnungszeiten</h3>
-                  <p className="text-gray-700">Montag - Freitag: 8:00 - 19:00 Uhr</p>
-                  <p className="text-gray-700">Samstag: 9:00 - 14:00 Uhr</p>
+                  <p className="text-gray-700">Mo-Fr: 8:00 - 20:00</p>
                 </div>
               </div>
             </motion.div>
@@ -368,7 +361,7 @@ const Contact = () => {
         {/* Map Section */}
         <div className="w-full h-[400px] mt-16">
           <iframe 
-            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2723.6935876701576!2d7.4344!3d46.9419!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x478e39d0cf20e8d1%3A0x9daac4cd3043d067!2sMonbijoustrasse%2073%2C%203007%20Bern!5e0!3m2!1sen!2sch!4v1658870000000!5m2!1sen!2sch" 
+            src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2710.1820033010526!2d7.508572399999999!3d47.213021!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x4791d86d8670d833%3A0x4124b3a3a9b2c4d!2sR%C3%B6merstrasse%2025%2C%204512%20Bellach%2C%20Switzerland!5e0!3m2!1sen!2s!4v1756663923845!5m2!1sen!2s" 
             width="100%" 
             height="100%" 
             style={{ border: 0 }} 

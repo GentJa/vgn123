@@ -7,72 +7,80 @@
   },
   "home": {
     "hero": {
-      "title": "Mobile Physiotherapie Für Zuhause",
-      "subtitle": "Willkommen bei der Mobilen Physiotherapie 24",
-      "cta": "Termin vereinbaren",
-      "slide1": {
-        "title": "Individuelle Therapie für Ihre Bedürfnisse",
-        "subtitle": "Maßgeschneiderte Behandlungskonzepte"
-      },
-      "slide2": {
-        "title": "Professionelle Behandlung zu Hause",
-        "subtitle": "Erleben Sie Physiotherapie in vertrauter Umgebung"
-      },
-      "slide3": {
-        "title": "15+ Jahre Erfahrung & Expertise",
-        "subtitle": "Vertrauen Sie auf unsere langjährige Kompetenz"
-      },
-      "features": {
-        "feature1": "Hausbesuche in ganz Berlin",
-        "feature2": "Alle Kassen & Privat",
-        "feature3": "Flexible Terminzeiten"
-      }
+      "title": "Willkommen bei Lebeswerk Physiotherapie & Gesundheit",
+      "description": "Individuelle, mobile Physiotherapie - bei Ihnen zu Hause oder im Altersheim.<br />Ich bin diplomierter Physiotherapeut mit Krankenkassenanerkennung und komme direkt zu Ihnen -<br />professionell, persönlich und zuverlässig.",
+      "button": "Jetzt Termin vereinbaren"
+    },
+    "about": {
+      "title": "Über mich",
+      "paragraph1": "Mein Name ist Vigan Musliu und ich arbeite als Physiotherapeut in der Schweiz. Mit langjähriger Erfahrung und großer Leidenschaft für die Physiotherapie unterstütze ich meine Patientinnen und Patienten dabei, ihre Beweglichkeit, Gesundheit und Lebensqualität nachhaltig zu verbessern.",
+      "paragraph2": "Da nicht jeder die Möglichkeit hat, eine Praxis aufzusuchen, biete ich meine Behandlungen direkt bei Ihnen zu Hause oder im Altersheim an. So erhalten Sie in Ihrer gewohnten Umgebung eine professionelle physiotherapeutische Betreuung – flexibel, persönlich und individuell auf Ihre Bedürfnisse abgestimmt.",
+      "paragraph3": "Mein Ziel ist es, Sie auf Ihrem Weg zur Genesung zu begleiten, Schmerzen zu lindern und Ihre Selbstständigkeit zu fördern. Dabei lege ich großen Wert auf eine einfühlsame Betreuung, gegenseitiges Vertrauen und eine Therapie, die ganz auf Sie zugeschnitten ist.",
+      "paragraph4": "Ich bin von allen Krankenkassen anerkannt und biete Ihnen eine individuelle Behandlung mit einem ganzheitlichen Blick auf Ihre Gesundheit."
     },
     "services": {
-      "title": "Unser Therapie-Angebot",
-      "description": "Wir bieten Ihnen ein breites Therapieangebot für die Behandlung in Ihrem Zuhause. Ob Wirbelsäulenprobleme oder Verletzungen, Muskelverspannungen oder neurologische Beschwerden, unsere erfahrenen Therapeuten lindern oder beseitigen Ihre Beschwerden schnellstmöglich.",
-      "lymphdrainage": "Mobile Lymphdrainage",
-      "lymphdrainage_desc": "Sanfte Techniken zur Entstauung und Schmerzlinderung.",
-      "lymphdrainage_benefit1": "Effektive Reduzierung von Schwellungen und Ödemen",
-      "lymphdrainage_benefit2": "Beschleunigung der Heilung nach Operationen und Verletzungen",
-      "lymphdrainage_benefit3": "Stärkung des Immunsystems und Verbesserung des Wohlbefindens",
-      "exercise": "Übungsbehandlung",
-      "exercise_desc": "Individuelle Übungen für mehr Mobilität und Kraft.",
-      "exercise_benefit1": "Maßgeschneiderte Übungsprogramme für Ihre spezifischen Bedürfnisse",
-      "exercise_benefit2": "Steigerung der Muskelkraft und Verbesserung der Koordination",
-      "exercise_benefit3": "Langfristige Schmerzreduktion durch gezielte Bewegungstherapie",
-      "gymnastics": "Krankengymastik",
-      "gymnastics_desc": "Gezielte Bewegungen für eine verbesserte Körperhaltung.",
-      "gymnastics_benefit1": "Korrektur von Haltungsschäden und Fehlstellungen",
-      "gymnastics_benefit2": "Verbesserung der Beweglichkeit und Gelenkfunktion",
-      "gymnastics_benefit3": "Prävention von wiederkehrenden Beschwerden durch gezieltes Training",
-      "manual": "Manuelle Therapie",
-      "manual_desc": "Behandlungen zur Lösung von Blockaden und Verspannungen.",
-      "manual_benefit1": "Gezielte Mobilisation von blockierten Gelenken und Wirbelsegmenten",
-      "manual_benefit2": "Lösung von tiefsitzenden Muskelverspannungen und Faszienverklebungen",
-      "manual_benefit3": "Schmerzlinderung und verbesserte Bewegungsfreiheit nach wenigen Sitzungen",
-      "massage": "Massagetherapie",
-      "massage_desc": "Lockert Muskeln und fördert die Durchblutung.",
-      "massage_benefit1": "Tiefenwirksame Entspannung der Muskulatur und des Nervensystems",
-      "massage_benefit2": "Verbesserte Durchblutung und beschleunigte Regeneration",
-      "massage_benefit3": "Stressabbau und Förderung des allgemeinen Wohlbefindens",
-      "breathing": "Atemtherapie",
-      "breathing_desc": "Unterstützt die Atmung bei Krankheiten wie COPD und reduziert Stress effektiv.",
-      "breathing_benefit1": "Optimierung der Atemtechnik und Steigerung des Lungenvolumens",
-      "breathing_benefit2": "Linderung von Beschwerden bei Asthma, COPD und anderen Atemwegserkrankungen",
-      "breathing_benefit3": "Verbesserung der Sauerstoffversorgung und Steigerung der Energie",
-      "all_services": "Unser Gesamter Service",
-      "manual_therapy": {
+      "title": "Leistungen / Behandlungen",
+      "description": "Ich biete das gesamte Spektrum der Physiotherapie an – individuell auf Ihre Bedürfnisse abgestimmt:",
+      "classical": {
+        "title": "Klassische Physiotherapie",
+        "description": "Behandlung von Beschwerden am Bewegungsapparat, an Muskeln und Gelenken"
+      },
+      "manual": {
         "title": "Manuelle Therapie",
-        "description": "Gezielte Behandlung von Funktionsstörungen des Bewegungsapparates durch spezielle Handgriffe und Mobilisationstechniken."
+        "description": "Gezielte Mobilisation und Behandlung von Blockaden und Funktionsstörungen"
       },
-      "physical_therapy": {
-        "title": "Krankengymnastik",
-        "description": "Individuelle Übungen zur Verbesserung von Beweglichkeit, Kraft und Koordination bei verschiedenen Erkrankungen."
+      "rehabilitation": {
+        "title": "Rehabilitation nach Operationen und Verletzungen",
+        "description": "Z. B. nach Gelenksoperationen, Knochenbrüchen oder Sportverletzungen"
       },
-      "lymphatic_drainage": {
-        "title": "Lymphdrainage",
-        "description": "Sanfte Massagetechnik zur Entstauung des Gewebes und Anregung des Lymphflusses bei Ödemen und Schwellungen."
+      "pain": {
+        "title": "Schmerztherapie",
+        "description": "Linderung akuter und chronischer Schmerzen"
+      },
+      "neurological": {
+        "title": "Neurologische Physiotherapie",
+        "description": "Unterstützung bei Erkrankungen wie Schlaganfall, Multipler Sklerose oder Parkinson"
+      },
+      "breathing": {
+        "title": "Atemtherapie",
+        "description": "Verbesserung der Atmung bei Lungenerkrankungen oder nach Operationen"
+      },
+      "lymph": {
+        "title": "Manuelle Lymphdrainage",
+        "description": "Behandlung von Schwellungen und Ödemen"
+      },
+      "balance": {
+        "title": "Gleichgewichts- und Sturzprävention",
+        "description": "Training zur Förderung von Stabilität und Sicherheit im Alltag"
+      },
+      "homevisits": {
+        "title": "Hausbesuche",
+        "description": "Alle Behandlungen finden in Ihrer gewohnten Umgebung statt"
+      },
+      "massage": {
+        "title": "Klassische Massage",
+        "description": "Lockerung der Muskulatur, Förderung der Durchblutung und Entspannung (je nach ärztlicher Verordnung oder als Selbstzahlerleistung möglich)"
+      },
+      "button": "Jetzt Termin vereinbaren"
+    },
+    "testimonials": {
+      "testimonial1": {
+        "name": "Martina K.",
+        "age": "35 Jahre",
+        "condition": "Rückenschmerzen",
+        "text": "Die Behandlung in meinem Zuhause war eine große Erleichterung. Der Therapeut war sehr professionell und hat mir wirklich geholfen. Meine Rückenschmerzen sind deutlich besser geworden!"
+      },
+      "testimonial2": {
+        "name": "Thomas B.",
+        "age": "52 Jahre",
+        "condition": "Knieprobleme",
+        "text": "Nach meiner Knie-OP war es schwierig, zur Physiotherapie zu fahren. Die mobile Physiotherapie kam genau zur richtigen Zeit. Sehr empfehlenswert!"
+      },
+      "testimonial3": {
+        "name": "Sabine M.",
+        "age": "48 Jahre",
+        "condition": "Lymphödem",
+        "text": "Flexible Termine und keine Anfahrt - das spart so viel Zeit! Die Qualität der Behandlung ist erstklassig und die Therapeuten sind sehr freundlich."
       }
     },
     "experience": {
@@ -146,7 +154,7 @@
       "hours": {
         "title": "Öffnungszeiten",
         "q1": "Was sind Ihre Betriebszeiten?",
-        "q1_answer": "Wir bieten flexible Terminzeiten von Montag bis Freitag, 8:00 bis 20:00 Uhr. Wochenendtermine sind auf Anfrage möglich.",
+        "q1_answer": "Öffnungszeiten: Montag - Freitag: 8:00 - 21:00 Uhr, Samstag: 9:00 - 14:00 Uhr. Wochenendtermine sind auf Anfrage möglich.",
         "q2": "Wie weit im Voraus sollte ich einen Termin buchen?",
         "q2_answer": "Wir empfehlen, mindestens 2-3 Tage im Voraus zu buchen, obwohl wir versuchen, dringende Fälle nach Möglichkeit zu berücksichtigen."
       },
@@ -166,9 +174,14 @@
       }
     },
     "contact_info": {
+      "title": "Kontakt / Termine vereinbaren",
+      "direct_phone": "078 922 72 74",
+      "appointment_phone": "078 800 72 45",
+      "direct_text": "Sie erreichen mich direkt unter 078 922 72 74.",
+      "appointment_text": "Für telefonische Terminvereinbarungen rufen Sie bitte 078 800 72 45 an",
       "phone": "+49 30 1234567",
       "email": "info@lebenswerk-physiotherapie.ch",
-      "address": "Musterstraße 123, 10115 Berlin"
+      "address": "Römmerstrasse 25 4512 Bellach"
     },
     "copy_notification": "Nummer kopiert!"
   },
@@ -308,7 +321,7 @@
       "cta": "Individuelle Beratung"
     },
     "pricing": {
-      "title": "Pricing",
+      "title": "Preise",
       "subtitle": "Preise für normale Behandlungstermine"
     },
     "payment": {
@@ -364,7 +377,7 @@
     "datenschutz": "Datenschutz",
     "locations": "Standorte",
     "schweiz": "Schweiz",
-    "schweiz_address": "Monbijoustrasse 73, 3007 Bern",
+    "schweiz_address": "Römmerstrasse 25 4512 Bellach",
     "quick_links": "Schnellzugriff",
     "contact_us": "Kontaktieren Sie uns",
     "tagline": "Professionelle Physiotherapie in Ihrer vertrauten Umgebung",

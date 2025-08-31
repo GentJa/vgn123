@@ -102,7 +102,7 @@ const Service = () => {
         >
           <div className="bg-black/30 backdrop-blur-sm p-4 md:p-6 rounded-lg inline-block w-full md:w-auto">
             <h1 className="text-3xl md:text-5xl font-bold text-white mb-3 md:mb-6 text-wrap-balance">{t('service.title')}</h1>
-            <p className="text-lg md:text-xl text-white mb-2 md:mb-4 break-words-safe max-w-lg">{t('service.subtitle')}</p>
+
           </div>
         </motion.div>
         
@@ -112,10 +112,10 @@ const Service = () => {
           initial="initial"
           animate="animate"
         >
-          <h2 className="text-2xl md:text-3xl font-bold text-primary mb-4 md:mb-6 text-wrap-balance">{t('service.offering.title')}</h2>
-          <p className="text-gray-700 mb-4 md:mb-6 break-words-safe max-w-2xl">{t('service.offering.description')}</p>
+          <h2 className="text-2xl md:text-3xl font-bold text-primary mb-4 md:mb-6 text-wrap-balance">{t('home.services.title')}</h2>
+          <p className="text-white font-bold mb-4 md:mb-6 break-words-safe max-w-2xl">{t('home.services.description')}</p>
           
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-4 md:gap-8">
+          <div className="grid grid-cols-1 md:grid-cols-2 gap-4 md:gap-6">
             <motion.div 
               className="service-item bg-white p-6 rounded-lg shadow-md border border-gray-100 transition-colors duration-300"
               variants={serviceItemVariants}
@@ -123,20 +123,15 @@ const Service = () => {
               animate="animate"
               whileHover="hover"
             >
-              <div className="flex items-start md:items-center mb-4">
-                <div className="w-10 h-10 md:w-12 md:h-12 rounded-full bg-primary bg-opacity-10 flex items-center justify-center mr-3 md:mr-4 flex-shrink-0">
-                  <FaLeaf className="text-primary text-lg md:text-xl" />
+              <div className="flex items-start space-x-3">
+                <div className="w-2 h-2 bg-primary rounded-full mt-2 flex-shrink-0"></div>
+                <div>
+                  <h3 className="text-lg md:text-xl font-bold text-primary mb-2">{t('home.services.classical.title')}</h3>
+                  <p className="text-gray-700">{t('home.services.classical.description')}</p>
                 </div>
-                <h3 className="text-lg md:text-xl font-bold text-primary mb-0 md:mb-2 text-wrap-balance">{t('service.lymphatic.title')}</h3>
               </div>
-              <p className="text-gray-700 mb-4 break-words-safe">{t('service.lymphatic.description')}</p>
-              <ul className="list-disc pl-5 text-gray-700 mb-4 text-sm md:text-base">
-                <li>{t('service.lymphatic.benefits.swelling')}</li>
-                <li>{t('service.lymphatic.benefits.circulation')}</li>
-                <li>{t('service.lymphatic.benefits.pain')}</li>
-              </ul>
             </motion.div>
-            
+
             <motion.div 
               className="service-item bg-white p-6 rounded-lg shadow-md border border-gray-100 transition-colors duration-300"
               variants={serviceItemVariants}
@@ -144,20 +139,15 @@ const Service = () => {
               animate="animate"
               whileHover="hover"
             >
-              <div className="flex items-start md:items-center mb-4">
-                <div className="w-10 h-10 md:w-12 md:h-12 rounded-full bg-primary bg-opacity-10 flex items-center justify-center mr-3 md:mr-4 flex-shrink-0">
-                  <FaHandshake className="text-primary text-lg md:text-xl" />
+              <div className="flex items-start space-x-3">
+                <div className="w-2 h-2 bg-primary rounded-full mt-2 flex-shrink-0"></div>
+                <div>
+                  <h3 className="text-lg md:text-xl font-bold text-primary mb-2">{t('home.services.manual.title')}</h3>
+                  <p className="text-gray-700">{t('home.services.manual.description')}</p>
                 </div>
-                <h3 className="text-lg md:text-xl font-bold text-primary mb-0 md:mb-2 text-wrap-balance">{t('service.manual.title')}</h3>
               </div>
-              <p className="text-gray-700 mb-4 break-words-safe">{t('service.manual.description')}</p>
-              <ul className="list-disc pl-5 text-gray-700 mb-4 text-sm md:text-base">
-                <li>{t('service.manual.benefits.mobility')}</li>
-                <li>{t('service.manual.benefits.tension')}</li>
-                <li>{t('service.manual.benefits.posture')}</li>
-              </ul>
             </motion.div>
-            
+
             <motion.div 
               className="service-item bg-white p-6 rounded-lg shadow-md border border-gray-100 transition-colors duration-300"
               variants={serviceItemVariants}
@@ -165,20 +155,15 @@ const Service = () => {
               animate="animate"
               whileHover="hover"
             >
-              <div className="flex items-start md:items-center mb-4">
-                <div className="w-10 h-10 md:w-12 md:h-12 rounded-full bg-primary bg-opacity-10 flex items-center justify-center mr-3 md:mr-4 flex-shrink-0">
-                  <FaHeart className="text-primary text-lg md:text-xl" />
+              <div className="flex items-start space-x-3">
+                <div className="w-2 h-2 bg-primary rounded-full mt-2 flex-shrink-0"></div>
+                <div>
+                  <h3 className="text-lg md:text-xl font-bold text-primary mb-2">{t('home.services.rehabilitation.title')}</h3>
+                  <p className="text-gray-700">{t('home.services.rehabilitation.description')}</p>
                 </div>
-                <h3 className="text-lg md:text-xl font-bold text-primary mb-0 md:mb-2 text-wrap-balance">{t('service.massage.title')}</h3>
               </div>
-              <p className="text-gray-700 mb-4 break-words-safe">{t('service.massage.description')}</p>
-              <ul className="list-disc pl-5 text-gray-700 mb-4 text-sm md:text-base">
-                <li>{t('service.massage.benefits.tension')}</li>
-                <li>{t('service.massage.benefits.circulation')}</li>
-                <li>{t('service.massage.benefits.stress')}</li>
-              </ul>
             </motion.div>
-            
+
             <motion.div 
               className="service-item bg-white p-6 rounded-lg shadow-md border border-gray-100 transition-colors duration-300"
               variants={serviceItemVariants}
@@ -186,39 +171,113 @@ const Service = () => {
               animate="animate"
               whileHover="hover"
             >
-              <div className="flex items-start md:items-center mb-4">
-                <div className="w-10 h-10 md:w-12 md:h-12 rounded-full bg-primary bg-opacity-10 flex items-center justify-center mr-3 md:mr-4 flex-shrink-0">
-                  <FaRunning className="text-primary text-lg md:text-xl" />
+              <div className="flex items-start space-x-3">
+                <div className="w-2 h-2 bg-primary rounded-full mt-2 flex-shrink-0"></div>
+                <div>
+                  <h3 className="text-lg md:text-xl font-bold text-primary mb-2">{t('home.services.pain.title')}</h3>
+                  <p className="text-gray-700">{t('home.services.pain.description')}</p>
                 </div>
-                <h3 className="text-lg md:text-xl font-bold text-primary mb-0 md:mb-2 text-wrap-balance">{t('service.taping.title')}</h3>
               </div>
-              <p className="text-gray-700 mb-4 break-words-safe">{t('service.taping.description')}</p>
-              <ul className="list-disc pl-5 text-gray-700 mb-4 text-sm md:text-base">
-                <li>{t('service.taping.benefits.support')}</li>
-                <li>{t('service.taping.benefits.stability')}</li>
-                <li>{t('service.taping.benefits.healing')}</li>
-              </ul>
+            </motion.div>
+
+            <motion.div 
+              className="service-item bg-white p-6 rounded-lg shadow-md border border-gray-100 transition-colors duration-300"
+              variants={serviceItemVariants}
+              initial="initial"
+              animate="animate"
+              whileHover="hover"
+            >
+              <div className="flex items-start space-x-3">
+                <div className="w-2 h-2 bg-primary rounded-full mt-2 flex-shrink-0"></div>
+                <div>
+                  <h3 className="text-lg md:text-xl font-bold text-primary mb-2">{t('home.services.neurological.title')}</h3>
+                  <p className="text-gray-700">{t('home.services.neurological.description')}</p>
+                </div>
+              </div>
+            </motion.div>
+
+            <motion.div 
+              className="service-item bg-white p-6 rounded-lg shadow-md border border-gray-100 transition-colors duration-300"
+              variants={serviceItemVariants}
+              initial="initial"
+              animate="animate"
+              whileHover="hover"
+            >
+              <div className="flex items-start space-x-3">
+                <div className="w-2 h-2 bg-primary rounded-full mt-2 flex-shrink-0"></div>
+                <div>
+                  <h3 className="text-lg md:text-xl font-bold text-primary mb-2">{t('home.services.breathing.title')}</h3>
+                  <p className="text-gray-700">{t('home.services.breathing.description')}</p>
+                </div>
+              </div>
+            </motion.div>
+
+            <motion.div 
+              className="service-item bg-white p-6 rounded-lg shadow-md border border-gray-100 transition-colors duration-300"
+              variants={serviceItemVariants}
+              initial="initial"
+              animate="animate"
+              whileHover="hover"
+            >
+              <div className="flex items-start space-x-3">
+                <div className="w-2 h-2 bg-primary rounded-full mt-2 flex-shrink-0"></div>
+                <div>
+                  <h3 className="text-lg md:text-xl font-bold text-primary mb-2">{t('home.services.lymph.title')}</h3>
+                  <p className="text-gray-700">{t('home.services.lymph.description')}</p>
+                </div>
+              </div>
+            </motion.div>
+
+            <motion.div 
+              className="service-item bg-white p-6 rounded-lg shadow-md border border-gray-100 transition-colors duration-300"
+              variants={serviceItemVariants}
+              initial="initial"
+              animate="animate"
+              whileHover="hover"
+            >
+              <div className="flex items-start space-x-3">
+                <div className="w-2 h-2 bg-primary rounded-full mt-2 flex-shrink-0"></div>
+                <div>
+                  <h3 className="text-lg md:text-xl font-bold text-primary mb-2">{t('home.services.balance.title')}</h3>
+                  <p className="text-gray-700">{t('home.services.balance.description')}</p>
+                </div>
+              </div>
+            </motion.div>
+
+            <motion.div 
+              className="service-item bg-white p-6 rounded-lg shadow-md border border-gray-100 transition-colors duration-300"
+              variants={serviceItemVariants}
+              initial="initial"
+              animate="animate"
+              whileHover="hover"
+            >
+              <div className="flex items-start space-x-3">
+                <div className="w-2 h-2 bg-primary rounded-full mt-2 flex-shrink-0"></div>
+                <div>
+                  <h3 className="text-lg md:text-xl font-bold text-primary mb-2">{t('home.services.homevisits.title')}</h3>
+                  <p className="text-gray-700">{t('home.services.homevisits.description')}</p>
+                </div>
+              </div>
+            </motion.div>
+
+            <motion.div 
+              className="service-item bg-white p-6 rounded-lg shadow-md border border-gray-100 transition-colors duration-300"
+              variants={serviceItemVariants}
+              initial="initial"
+              animate="animate"
+              whileHover="hover"
+            >
+              <div className="flex items-start space-x-3">
+                <div className="w-2 h-2 bg-primary rounded-full mt-2 flex-shrink-0"></div>
+                <div>
+                  <h3 className="text-lg md:text-xl font-bold text-primary mb-2">{t('home.services.massage.title')}</h3>
+                  <p className="text-gray-700">{t('home.services.massage.description')}</p>
+                </div>
+              </div>
             </motion.div>
           </div>
         </motion.div>
-        
-        {/* <motion.div 
-          className="pricing-section bg-primary text-white p-8 rounded-lg mb-12 text-center"
-          variants={fadeIn}
-          initial="initial"
-          whileInView="animate"
-          viewport={{ once: true }}
-        >
-          <h2 className="text-3xl font-bold mb-4 text-wrap-balance">{t('service.pricing.title')}</h2>
-          <p className="mb-6 break-words-safe">{t('service.pricing.description')}</p>
-          <motion.button 
-            className="bg-white text-primary px-6 py-3 rounded-lg hover:bg-gray-100 transition-all font-medium"
-            whileHover={{ scale: 1.05 }}
-            whileTap={{ scale: 0.95 }}
-          >
-            {t('service.pricing.cta')}
-          </motion.button>
-        </motion.div> */}
+
         
         {/* <motion.div 
           className="faq-section"

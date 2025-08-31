@@ -7,68 +7,93 @@
   },
   "home": {
     "hero": {
-      "title": "Mobile Physiotherapy For Your Home",
-      "subtitle": "Welcome to Mobile Physiotherapy 24",
-      "cta": "Book Appointment",
-      "slide1": {
-        "title": "Personalized Therapy For Your Needs",
-        "subtitle": "Customized Treatment Concepts"
-      },
-      "slide2": {
-        "title": "Professional Treatment At Home",
-        "subtitle": "Experience Physiotherapy in Familiar Surroundings"
-      },
-      "slide3": {
-        "title": "15+ Years of Experience & Expertise",
-        "subtitle": "Trust in Our Long-standing Competence"
-      },
-      "features": {
-        "feature1": "Home Visits Throughout Berlin",
-        "feature2": "All Insurance & Private",
-        "feature3": "Flexible Appointment Times"
-      }
-    },
-    "services": {
-      "title": "Our Services",
-      "subtitle": "Professional Physiotherapy",
-      "manual_therapy": {
-        "title": "Manual Therapy",
-        "description": "Targeted treatment of functional disorders of the musculoskeletal system through special hand techniques and mobilization methods."
-      },
-      "physical_therapy": {
-        "title": "Physical Therapy",
-        "description": "Individual exercises to improve mobility, strength, and coordination for various conditions."
-      },
-      "lymphatic_drainage": {
-        "title": "Lymphatic Drainage",
-        "description": "Gentle massage technique to decongest tissue and stimulate lymph flow in cases of edema and swelling."
-      },
-      "view_all": "View All Services"
+      "title": "Welcome to Lebeswerk Physiotherapy & Health",
+      "description": "Individual, mobile physiotherapy - at your home or in nursing homes.<br />I am a certified physiotherapist with health insurance recognition and come directly to you -<br />professional, personal and reliable.",
+      "button": "Book Appointment Now"
     },
     "about": {
-      "title": "About Us",
-      "subtitle": "Your Partner for Health and Well-being",
-      "years_of_experience": "Year of Experience",
-      "description": "At LEBENSWERK, your health is our priority. Our experienced therapists come directly to your home and offer professional treatments in your familiar environment.",
-      "features": {
-        "personal_care": {
-          "title": "Personal Care",
-          "description": "Individual therapy plans tailored to your needs."
-        },
-        "qualified_staff": {
-          "title": "Qualified Professionals",
-          "description": "Our team consists of experienced and specialized therapists."
-        },
-        "holistic_approach": {
-          "title": "Holistic Approach",
-          "description": "We consider not just the symptoms, but the whole person."
-        }
+      "title": "About Me",
+      "paragraph1": "My name is Vigan Musliu and I work as a physiotherapist in Switzerland. With years of experience and great passion for physiotherapy, I support my patients in sustainably improving their mobility, health and quality of life.",
+      "paragraph2": "Since not everyone has the opportunity to visit a practice, I offer my treatments directly at your home or in nursing homes. This way you receive professional physiotherapeutic care in your familiar environment – flexible, personal and individually tailored to your needs.",
+      "paragraph3": "My goal is to accompany you on your path to recovery, relieve pain and promote your independence. I place great value on empathetic care, mutual trust and therapy that is completely tailored to you.",
+      "paragraph4": "I am recognized by all health insurance companies and offer you individual treatment with a holistic view of your health."
+    },
+    "services": {
+      "title": "Services / Treatments",
+      "description": "I offer the complete spectrum of physiotherapy – individually tailored to your needs:",
+      "classical": {
+        "title": "Classical Physiotherapy",
+        "description": "Treatment of complaints in the musculoskeletal system, muscles and joints"
       },
-      "more_about_us": "More About Us"
+      "manual": {
+        "title": "Manual Therapy",
+        "description": "Targeted mobilization and treatment of blockages and functional disorders"
+      },
+      "rehabilitation": {
+        "title": "Rehabilitation after Operations and Injuries",
+        "description": "E.g. after joint operations, bone fractures or sports injuries"
+      },
+      "pain": {
+        "title": "Pain Therapy",
+        "description": "Relief of acute and chronic pain"
+      },
+      "neurological": {
+        "title": "Neurological Physiotherapy",
+        "description": "Support for conditions such as stroke, multiple sclerosis or Parkinson's"
+      },
+      "breathing": {
+        "title": "Respiratory Therapy",
+        "description": "Improvement of breathing in lung diseases or after operations"
+      },
+      "lymph": {
+        "title": "Manual Lymphatic Drainage",
+        "description": "Treatment of swelling and edema"
+      },
+      "balance": {
+        "title": "Balance and Fall Prevention",
+        "description": "Training to promote stability and safety in everyday life"
+      },
+      "homevisits": {
+        "title": "Home Visits",
+        "description": "All treatments take place in your familiar environment"
+      },
+      "massage": {
+        "title": "Classical Massage",
+        "description": "Muscle relaxation, improved circulation and relaxation (possible according to medical prescription or as a self-pay service)"
+      },
+      "button": "Book Appointment Now"
     },
     "testimonials": {
       "title": "Experiences",
-      "subtitle": "What Our Patients Say"
+      "subtitle": "What Our Patients Say",
+      "testimonial1": {
+        "name": "Martina K.",
+        "age": "35 years old",
+        "condition": "Back pain",
+        "text": "The treatment in my home was a great relief. The therapist was very professional and really helped me. My back pain has improved significantly!"
+      },
+      "testimonial2": {
+        "name": "Thomas B.",
+        "age": "52 years old",
+        "condition": "Knee problems",
+        "text": "After my knee surgery, it was difficult to go to physiotherapy. The mobile physiotherapy came at just the right time. Highly recommended!"
+      },
+      "testimonial3": {
+        "name": "Sabine M.",
+        "age": "48 years old",
+        "condition": "Lymphedema",
+        "text": "Flexible appointments and no travel - that saves so much time! The quality of treatment is first-class and the therapists are very friendly."
+      }
+    },
+    "appointment": {
+      "title": "Appointment",
+      "subtitle": "Prices for regular treatment appointments",
+      "vat": "Without prescription +7% VAT",
+      "hours": "Mon. to Fri. 09:00 to 19:00",
+      "duration": "Treatment duration: 60 minutes",
+      "price": "80 CHF",
+      "button": "Book Appointment Now",
+      "cta": "Book Appointment"
     },
     "cta": {
       "title": "Ready for Your Personal Therapy?",
@@ -78,9 +103,14 @@
     },
     "copy_notification": "Number copied!",
     "contact_info": {
+      "title": "Contact / Schedule Appointments",
+      "direct_phone": "078 922 72 74",
+      "appointment_phone": "078 800 72 45",
+      "direct_text": "You can reach me directly at 078 922 72 74.",
+      "appointment_text": "For telephone appointment scheduling, please call 078 800 72 45",
       "phone": "+49 176 12345678",
       "email": "info@lebenswerk-physiotherapie.ch",
-      "address": "Musterstrasse 123, 12345 Berlin"
+      "address": "Römmerstrasse 25 4512 Bellach"
     }
   },
   "service": {
@@ -188,7 +218,7 @@
     "datenschutz": "Privacy Policy",
     "locations": "Locations",
     "schweiz": "Switzerland",
-    "schweiz_address": "Monbijoustrasse 73, 3007 Bern",
+    "schweiz_address": "Römmerstrasse 25 4512 Bellach",
     "quick_links": "Quick Links",
     "contact_us": "Contact Us",
     "tagline": "Professional physiotherapy in your familiar environment",
@@ -279,7 +309,7 @@
     "hours": {
       "title": "Working Hours",
       "q1": "What are your operating hours?",
-      "q1_answer": "We offer flexible appointment times from Monday to Friday, 8:00 AM to 8:00 PM. Weekend appointments may be available upon request.",
+      "q1_answer": "Opening Hours: Monday - Friday: 8:00 AM - 9:00 PM, Saturday: 9:00 AM - 2:00 PM. Weekend appointments may be available upon request.",
       "q2": "How far in advance should I book an appointment?",
       "q2_answer": "We recommend booking at least 2-3 days in advance, though we try to accommodate urgent cases when possible."
     },

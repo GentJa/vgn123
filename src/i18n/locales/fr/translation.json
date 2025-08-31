@@ -7,68 +7,93 @@
   },
   "home": {
     "hero": {
-      "title": "Physiothérapie Mobile À Domicile",
-      "subtitle": "Bienvenue à la Physiothérapie Mobile 24",
-      "cta": "Prendre Rendez-vous",
-      "slide1": {
-        "title": "Thérapie Personnalisée Pour Vos Besoins",
-        "subtitle": "Concepts de Traitement Sur Mesure"
-      },
-      "slide2": {
-        "title": "Traitement Professionnel À Domicile",
-        "subtitle": "Expérimentez la Physiothérapie dans un Environnement Familier"
-      },
-      "slide3": {
-        "title": "Plus de 15 Ans d'Expérience & d'Expertise",
-        "subtitle": "Faites Confiance à Notre Compétence de Longue Date"
-      },
-      "features": {
-        "feature1": "Visites à Domicile dans Tout Berlin",
-        "feature2": "Toutes Assurances & Privé",
-        "feature3": "Horaires de Rendez-vous Flexibles"
-      }
-    },
-    "services": {
-      "title": "Nos Services",
-      "subtitle": "Physiothérapie Professionnelle",
-      "manual_therapy": {
-        "title": "Thérapie Manuelle",
-        "description": "Traitement ciblé des troubles fonctionnels de l'appareil locomoteur par des techniques manuelles spéciales et des méthodes de mobilisation."
-      },
-      "physical_therapy": {
-        "title": "Kinésithérapie",
-        "description": "Exercices individuels pour améliorer la mobilité, la force et la coordination pour diverses conditions."
-      },
-      "lymphatic_drainage": {
-        "title": "Drainage Lymphatique",
-        "description": "Technique de massage douce pour décongestionner les tissus et stimuler la circulation lymphatique en cas d'œdème et de gonflement."
-      },
-      "view_all": "Voir Tous les Services"
+      "title": "Bienvenue chez Lebeswerk Physiothérapie & Santé",
+      "description": "Physiothérapie mobile individuelle - chez vous à domicile ou en maison de retraite.<br />Je suis un physiothérapeute diplômé avec reconnaissance d'assurance maladie et je viens directement chez vous -<br />professionnel, personnel et fiable.",
+      "button": "Prendre Rendez-vous Maintenant"
     },
     "about": {
-      "title": "À Propos de Nous",
-      "subtitle": "Votre Partenaire pour la Santé et le Bien-être",
-      "years_of_experience": "Année d'Expérience",
-      "description": "Chez LEBENSWERK, votre santé est notre priorité. Nos thérapeutes expérimentés viennent directement chez vous et offrent des traitements professionnels dans votre environnement familier.",
-      "features": {
-        "personal_care": {
-          "title": "Soins Personnalisés",
-          "description": "Plans de thérapie individuels adaptés à vos besoins."
-        },
-        "qualified_staff": {
-          "title": "Professionnels Qualifiés",
-          "description": "Notre équipe est composée de thérapeutes expérimentés et spécialisés."
-        },
-        "holistic_approach": {
-          "title": "Approche Holistique",
-          "description": "Nous considérons non seulement les symptômes, mais la personne dans son ensemble."
-        }
+      "title": "À Propos de Moi",
+      "paragraph1": "Mon nom est Vigan Musliu et je travaille comme physiothérapeute en Suisse. Avec des années d'expérience et une grande passion pour la physiothérapie, j'aide mes patients à améliorer durablement leur mobilité, leur santé et leur qualité de vie.",
+      "paragraph2": "Comme tout le monde n'a pas la possibilité de se rendre dans un cabinet, j'offre mes traitements directement chez vous à domicile ou en maison de retraite. Ainsi, vous recevez des soins physiothérapeutiques professionnels dans votre environnement familier – flexible, personnel et adapté individuellement à vos besoins.",
+      "paragraph3": "Mon objectif est de vous accompagner sur votre chemin vers la guérison, de soulager la douleur et de favoriser votre indépendance. J'accorde une grande importance aux soins empathiques, à la confiance mutuelle et à une thérapie qui vous est entièrement adaptée.",
+      "paragraph4": "Je suis reconnu par toutes les caisses d'assurance maladie et je vous offre un traitement individuel avec une vision holistique de votre santé."
+    },
+    "services": {
+      "title": "Services / Traitements",
+      "description": "J'offre tout le spectre de la physiothérapie – adapté individuellement à vos besoins:",
+      "classical": {
+        "title": "Physiothérapie Classique",
+        "description": "Traitement des troubles de l'appareil locomoteur, des muscles et des articulations"
       },
-      "more_about_us": "En Savoir Plus Sur Nous"
+      "manual": {
+        "title": "Thérapie Manuelle",
+        "description": "Mobilisation ciblée et traitement des blocages et troubles fonctionnels"
+      },
+      "rehabilitation": {
+        "title": "Rééducation après Opérations et Blessures",
+        "description": "Par ex. après opérations articulaires, fractures osseuses ou blessures sportives"
+      },
+      "pain": {
+        "title": "Thérapie de la Douleur",
+        "description": "Soulagement des douleurs aiguës et chroniques"
+      },
+      "neurological": {
+        "title": "Physiothérapie Neurologique",
+        "description": "Soutien pour des maladies comme l'AVC, la sclérose en plaques ou Parkinson"
+      },
+      "breathing": {
+        "title": "Thérapie Respiratoire",
+        "description": "Amélioration de la respiration en cas de maladies pulmonaires ou après opérations"
+      },
+      "lymph": {
+        "title": "Drainage Lymphatique Manuel",
+        "description": "Traitement des gonflements et œdèmes"
+      },
+      "balance": {
+        "title": "Équilibre et Prévention des Chutes",
+        "description": "Entraînement pour favoriser la stabilité et la sécurité au quotidien"
+      },
+      "homevisits": {
+        "title": "Visites à Domicile",
+        "description": "Tous les traitements ont lieu dans votre environnement familier"
+      },
+      "massage": {
+        "title": "Massage Classique",
+        "description": "Détente musculaire, amélioration de la circulation et relaxation (possible selon prescription médicale ou comme service payant)"
+      },
+      "button": "Prendre Rendez-vous Maintenant"
     },
     "testimonials": {
       "title": "Expériences",
-      "subtitle": "Ce Que Disent Nos Patients"
+      "subtitle": "Ce Que Disent Nos Patients",
+      "testimonial1": {
+        "name": "Martina K.",
+        "age": "35 ans",
+        "condition": "Douleurs dorsales",
+        "text": "Le traitement à domicile a été un grand soulagement. Le thérapeute était très professionnel et m'a vraiment aidée. Mes douleurs dorsales se sont nettement améliorées !"
+      },
+      "testimonial2": {
+        "name": "Thomas B.",
+        "age": "52 ans",
+        "condition": "Problèmes de genou",
+        "text": "Après mon opération du genou, il était difficile d'aller en physiothérapie. La physiothérapie mobile est arrivée au bon moment. Très recommandé !"
+      },
+      "testimonial3": {
+        "name": "Sabine M.",
+        "age": "48 ans",
+        "condition": "Lymphœdème",
+        "text": "Des rendez-vous flexibles et pas de déplacement - cela fait gagner tellement de temps ! La qualité du traitement est excellente et les thérapeutes sont très sympathiques."
+      }
+    },
+    "appointment": {
+      "title": "Rendez-vous",
+      "subtitle": "Prix pour les rendez-vous de traitement réguliers",
+      "vat": "Sans ordonnance +7% TVA",
+      "hours": "Lun. au Ven. 09h00 à 19h00",
+      "duration": "Durée du traitement : 60 minutes",
+      "price": "80 CHF",
+      "button": "Prendre Rendez-vous Maintenant",
+      "cta": "Prendre Rendez-vous"
     },
     "cta": {
       "title": "Prêt pour Votre Thérapie Personnelle?",
@@ -83,9 +108,14 @@
       "locations": "Emplacements à Berlin"
     },
     "contact_info": {
+      "title": "Contact / Prendre Rendez-vous",
+      "direct_phone": "078 922 72 74",
+      "appointment_phone": "078 800 72 45",
+      "direct_text": "Vous pouvez me joindre directement au 078 922 72 74.",
+      "appointment_text": "Pour la prise de rendez-vous téléphonique, veuillez appeler le 078 800 72 45",
       "phone": "+49 176 12345678",
       "email": "info@lebenswerk-physiotherapie.ch",
-      "address": "Musterstraße 123, 12345 Berlin"
+      "address": "Römmerstrasse 25 4512 Bellach"
     },
     "copy_notification": "Numéro copié!"
   },
@@ -336,7 +366,7 @@
     "hours": {
       "title": "Heures d'Ouverture",
       "q1": "Quelles sont vos heures d'ouverture ?",
-      "q1_answer": "Nous proposons des rendez-vous flexibles du lundi au vendredi, de 8h00 à 20h00. Des rendez-vous le week-end peuvent être disponibles sur demande.",
+      "q1_answer": "Heures d'ouverture : Lundi - Vendredi : 8h00 - 21h00, Samedi : 9h00 - 14h00. Des rendez-vous le week-end peuvent être disponibles sur demande.",
       "q2": "Combien de temps à l'avance dois-je prendre rendez-vous ?",
       "q2_answer": "Nous recommandons de réserver au moins 2-3 jours à l'avance, bien que nous essayions d'accommoder les cas urgents lorsque c'est possible."
     },

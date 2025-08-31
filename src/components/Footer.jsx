@@ -128,7 +128,7 @@ const Footer = () => {
             <ul className="space-y-3">
               <li>
                 <LocalizedLink to="/location/bern" className="text-white/80 hover:text-white transition-colors flex items-center">
-                  <FaMapMarkerAlt className="mr-2 text-white/60" /> Bern
+                  <FaMapMarkerAlt className="mr-2 text-white/60" /> Solothurn
                 </LocalizedLink>
               </li>
             </ul>
@@ -150,8 +150,11 @@ const Footer = () => {
               <li className="flex items-start">
                 <FaPhone className="mt-1 mr-3 text-white/60" />
                 <div>
-                  <p className="font-medium break-words-safe">{t('home.contact_info.phone')}</p>
-                  <p className="text-sm text-white/60 flex items-center mt-1 break-words-safe">
+                  <p className="font-medium break-words-safe">{t('home.contact_info.direct_phone')}</p>
+                  <p className="text-xs text-white/60 mt-1">{t('home.contact_info.direct_text')}</p>
+                  <p className="font-medium break-words-safe mt-2">{t('home.contact_info.appointment_phone')}</p>
+                  <p className="text-xs text-white/60 mt-1">{t('home.contact_info.appointment_text')}</p>
+                  <p className="text-sm text-white/60 flex items-center mt-2 break-words-safe">
                     <FaClock className="mr-1" /> Mo-Fr: 8:00 - 20:00
                   </p>
                 </div>
@@ -177,12 +180,12 @@ const Footer = () => {
               {t('footer.copyright')} {new Date().getFullYear()} LEBENSWERK. Alle Rechte vorbehalten.
             </p>
             <div className="flex space-x-6">
-              <LocalizedLink to="/impressum" className="text-sm text-white/70 hover:text-white transition-colors">
+              {/* <LocalizedLink to="/impressum" className="text-sm text-white/70 hover:text-white transition-colors">
                 {t('footer.impressum')}
-              </LocalizedLink>
-              <LocalizedLink to="/datenschutz" className="text-sm text-white/70 hover:text-white transition-colors">
+              </LocalizedLink> */}
+              {/* <LocalizedLink to="/datenschutz" className="text-sm text-white/70 hover:text-white transition-colors">
                 {t('footer.datenschutz')}
-              </LocalizedLink>
+              </LocalizedLink> */}
               {/* <LocalizedLink to="/agb" className="text-sm text-white/70 hover:text-white transition-colors">
                 AGB
               </LocalizedLink> */}

@@ -12,8 +12,8 @@ import Services from './pages/Services';
 import About from './pages/About';
 import Contact from './pages/Contact';
 import LocationPage from './pages/LocationPage';
-import Impressum from './pages/Impressum';
-import Datenschutz from './pages/Datenschutz';
+// import Impressum from './pages/Impressum';
+// import Datenschutz from './pages/Datenschutz';
 import NotFound from './pages/NotFound';
 
 import { routeTranslations, getTranslatedPath } from './i18n/routeTranslations';
@@ -172,16 +172,16 @@ function App() {
                   />
                   
                   {/* Imprint route - translated */}
-                  <Route 
+                  {/* <Route 
                     path={`/${getTranslatedPath('imprint', lang)}`} 
                     element={<AnimatedPage><Impressum /></AnimatedPage>} 
-                  />
+                  /> */}
                   
                   {/* Privacy route - translated */}
-                  <Route 
+                  {/* <Route 
                     path={`/${getTranslatedPath('privacy', lang)}`} 
                     element={<AnimatedPage><Datenschutz /></AnimatedPage>} 
-                  />
+                  /> */}
                   
                   {/* Catch-all route for this language */}
                   <Route path="*" element={<AnimatedPage><NotFound /></AnimatedPage>} />
@@ -195,8 +195,8 @@ function App() {
             <Route path="/about" element={<Navigate to={`/${i18n.language || 'de'}/${getTranslatedPath('about', i18n.language || 'de')}`} replace />} />
             <Route path="/kontakt" element={<Navigate to={`/${i18n.language || 'de'}/${getTranslatedPath('contact', i18n.language || 'de')}`} replace />} />
             <Route path="/standort/:location" element={<Navigate to={`/${i18n.language || 'de'}/${getTranslatedPath('location', i18n.language || 'de')}/:location`} replace />} />
-            <Route path="/impressum" element={<Navigate to={`/${i18n.language || 'de'}/${getTranslatedPath('imprint', i18n.language || 'de')}`} replace />} />
-            <Route path="/datenschutz" element={<Navigate to={`/${i18n.language || 'de'}/${getTranslatedPath('privacy', i18n.language || 'de')}`} replace />} />
+            {/* <Route path="/impressum" element={<Navigate to={`/${i18n.language || 'de'}/${getTranslatedPath('imprint', i18n.language || 'de')}`} replace />} /> */}
+            {/* <Route path="/datenschutz" element={<Navigate to={`/${i18n.language || 'de'}/${getTranslatedPath('privacy', i18n.language || 'de')}`} replace />} /> */}
             
             {/* Language-specific route corrections */}
             <Route path="/en/kontakt" element={<Navigate to="/en/contact" replace />} />
