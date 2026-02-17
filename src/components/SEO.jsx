@@ -19,7 +19,7 @@ const SEO = ({
   const currentLang = i18n.language || 'de';
   
   // Base domain for canonical and OG URLs
-  const baseUrl = 'https://mobile-physiotherapie24.de';
+  const baseUrl = 'https://lebenswerk-physiotherapie.ch';
   
   // Current path without language prefix
   const pathWithoutLang = location.pathname.split('/').slice(2).join('/');

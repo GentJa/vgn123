@@ -7,7 +7,7 @@ Allow: /en/
 Allow: /fr/
 
 # Sitemap location
-Sitemap: https://mobile-physiotherapie24.de/sitemap.xml
+Sitemap: https://lebenswerk-physiotherapie/sitemap.xml
 
 # Disallow admin or private areas if they exist
 Disallow: /admin/

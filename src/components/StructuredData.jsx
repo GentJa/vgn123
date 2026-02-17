@@ -41,7 +41,7 @@ const StructuredData = ({
   const currentLang = i18n.language || 'de';
   
   // Base domain for URLs
-  const baseUrl = 'https://mobile-physiotherapie24.de';
+  const baseUrl = 'https://lebenswerk-physiotherapie.ch';
   const fullUrl = url || `${baseUrl}/${currentLang}`;
   const fullImageUrl = image.startsWith('http') ? image : `${baseUrl}${image}`;
   

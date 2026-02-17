@@ -15,7 +15,7 @@ i18n.on('languageChanged', (lng) => {
   const canonicalLink = document.getElementById('canonicalLink');
   if (canonicalLink) {
     const currentPath = window.location.pathname.split('/').slice(2).join('/');
-    const baseUrl = 'https://mobile-physiotherapie24.de';
+    const baseUrl = 'https://lebenswerk-physiotherapie.ch';
     canonicalLink.setAttribute('href', `${baseUrl}/${lng}${currentPath ? `/${currentPath}` : ''}`);
   }
   

@@ -41,7 +41,7 @@ const Impressum = () => {
             <p className="font-bold mb-1">{t('legal.impressum.contact')}</p>
             <p className="text-gray-700">{t('legal.impressum.phone')}: 0800 3110010</p>
             <p className="text-gray-700">{t('legal.impressum.email')}: info@physio-24.de</p>
-            <p className="text-gray-700">{t('legal.impressum.website')}: www.mobile-physiotherapie24.de</p>
+            <p className="text-gray-700">{t('legal.impressum.website')}: lebenswerk-physiotherapie.ch</p>
           </div>
         </div>
         
