@@ -233,7 +233,7 @@ const Contact = () => {
                 <div>
                   <h3 className="font-bold text-primary text-lg">Adresse</h3>
                   <p className="text-gray-700">LEBENSWERK Physiotherapie</p>
-                  <p className="text-gray-700">Römmerstrasse 25</p>
+                  <p className="text-gray-700">Römerstrasse 25</p>
                   <p className="text-gray-700">4512 Bellach, Schweiz</p>
                 </div>
               </div>
